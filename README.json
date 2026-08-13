@@ -1,0 +1,2411 @@
+{
+  "items": [
+    {
+      "description": "Create a pull request or fill in this form. Please keep the alphabetical order and in the correct category.\nFor adding AI agents'-related SDKs, frameworks and tools, please visit Awesome SDKs for AI Agents. This list is only for AI assistants and agents.",
+      "items": [],
+      "title": "Have anything to add?"
+    },
+    {
+      "description": "Adala: Autonomous Data (Labeling) Agent framework\n",
+      "items": [],
+      "title": "Adala"
+    },
+    {
+      "description": "General purpose, Build your own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Recommender system simulator with 1,000 agents",
+      "items": [],
+      "title": "Agent4Rec"
+    },
+    {
+      "description": "General purpose, Build your own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "LLM-agnostic platform for agent building & testing\n",
+      "items": [],
+      "title": "AgentForge"
+    },
+    {
+      "description": "General purpose, Build your own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Browser-based no-code version of AutoGPT\n",
+      "items": [],
+      "title": "AgentGPT"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build, manage, and chat with agents in desktop app\n",
+      "items": [],
+      "title": "AgentPilot"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Library/framework for building language agents\n",
+      "items": [],
+      "title": "Agents"
+    },
+    {
+      "description": "General purpose, Build your own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Platform for task-solving & simulation agents\n",
+      "items": [],
+      "title": "AgentVerse"
+    },
+    {
+      "description": "General purpose, Build your own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Multi-agent TS platform, similar to AutoGPT\n",
+      "items": [],
+      "title": "AI Legion"
+    },
+    {
+      "description": "Multi-agent, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Use command line to edit code in your local repo\n",
+      "items": [],
+      "title": "Aider"
+    },
+    {
+      "description": "Coding, GitHub",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Create agents-calling tree to execute your tasks\n",
+      "items": [],
+      "title": "AIlice"
+    },
+    {
+      "description": "General purpose, Personal assistant, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Multi-agent framework with diversity of agents\n",
+      "items": [],
+      "title": "AutoGen"
+    },
+    {
+      "description": "General purpose, Build your own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Experimental attempt to make GPT4 fully autonomous\n",
+      "items": [],
+      "title": "AutoGPT"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Generate code based on your project context\n",
+      "items": [],
+      "title": "Automata"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-generated pull requests agent that fixes issues\n",
+      "items": [],
+      "title": "AutoPR"
+    },
+    {
+      "description": "Coding, GitHub",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent that answers HR-related queries using tools\n",
+      "items": [],
+      "title": "Autonomous HR Chatbot"
+    },
+    {
+      "description": "HR, Business intelligence, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "A simple framework for managing tasks using AI\n",
+      "items": [],
+      "title": "BabyAGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Task management & functionality BabyAGI expansion\n",
+      "items": [],
+      "title": "BabyBeeAGI"
+    },
+    {
+      "description": "General purpose, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "BabyCatAGI is a mod of BabyBeeAGI\n",
+      "items": [],
+      "title": "BabyCatAGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Mod of BabyAGI with only ~350 lines of code\n",
+      "items": [],
+      "title": "BabyDeerAGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Mod of BabyDeerAGI, with ~895 lines of code\n",
+      "items": [],
+      "title": "BabyElfAGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Test what happens when you combine CLI and LLM\n",
+      "items": [],
+      "title": "BabyCommandAGI"
+    },
+    {
+      "description": "General purpose, Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Mod of BabyAGI with a new parallel UI panel\n",
+      "items": [],
+      "title": "BabyFoxAGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Data exploration and analysis for non-programmers\n",
+      "items": [],
+      "title": "BambooAI"
+    },
+    {
+      "description": "Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Early-stage project for wide range of tasks\n",
+      "items": [],
+      "title": "BeeBot"
+    },
+    {
+      "description": "General purpose, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "An open-source AI debugging agent for VSCode\n",
+      "items": [],
+      "title": "Blinky"
+    },
+    {
+      "description": "Coding, Debugging",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI code search, works for Rust and Typescript\n",
+      "items": [],
+      "title": "Bloop"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-12-04T17:39:21Z",
+            "owner": "BloopAI",
+            "repo": "bloop",
+            "stars": 9505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloop apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-12-04T17:39:21Z",
+            "owner": "BloopAI",
+            "repo": "bloop",
+            "stars": 9505
+          }
+        }
+      ],
+      "title": "Links"
+    },
+    {
+      "description": "Code interpreter with CLI & RESTful/WebSocket API\n",
+      "items": [],
+      "title": "BondAI"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agent that keeps npm dependencies up-to-date\n",
+      "items": [],
+      "title": "bumpgen"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Open-source scheduling assistant built on Cal.com\n",
+      "items": [],
+      "title": "Cal.ai"
+    },
+    {
+      "description": "Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Architecture for “Mind” Exploration of agents\n",
+      "items": [],
+      "title": "CAMEL"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "A chat tool for multi agent interaction\n",
+      "items": [],
+      "title": "ChatArena"
+    },
+    {
+      "description": "Design, Build-your-own, SDK for AI apps, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Communicative agents for software development\n",
+      "items": [],
+      "title": "ChatDev"
+    },
+    {
+      "description": "Coding, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Local demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:01:27Z",
+            "owner": "OpenBMB",
+            "repo": "ChatDev",
+            "stars": 33986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:01:27Z",
+            "owner": "OpenBMB",
+            "repo": "ChatDev",
+            "stars": 33986
+          }
+        }
+      ],
+      "title": "Links"
+    },
+    {
+      "description": "LangChain agent for chemistry-related tasks\n",
+      "items": [],
+      "title": "ChemCrow"
+    },
+    {
+      "description": "Science, Chemistry",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent that can plan, write, debug, and test code\n",
+      "items": [],
+      "title": "Clippy"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent serving entire SW development lifecycle\n",
+      "items": [],
+      "title": "CodeFuse-ChatBot"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Query and navigate your codebase\n",
+      "items": [],
+      "title": "Cody by ajhous44"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent that writes code and answers your questions\n",
+      "items": [],
+      "title": "Cody by Sourcegraph"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "Open-source autopilot for software development\n",
+      "items": [],
+      "title": "Continue"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Framework for orchestrating role-playing agents\n",
+      "items": [],
+      "title": "CrewAI"
+    },
+    {
+      "description": "Build-your-own, SDK for agents, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:09:44Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crew AI Wiki with examples and guides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:09:44Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:09:44Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57004
+          }
+        }
+      ],
+      "title": "Links"
+    },
+    {
+      "description": "AI-driven research from data to human-verifiable research papers",
+      "items": [],
+      "title": "data-to-paper"
+    },
+    {
+      "description": "Science, Research, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "data-to-paper is a framework for systematically navigating the power of AI to perform complete end-to-end scientific research, starting from raw data and concluding with comprehensive, transparent, and human-verifiable scientific papers.\nTowards this goal, data-to-paper systematically guides interacting LLM and rule-based agents through the conventional scientific path, from annotated data, through creating research hypotheses, conducting literature search, writing and debugging data analysis code, interpreting the results, and ultimately the step-by-step writing of a complete research paper.\nThe data-to-paper framework is created as a research project to understand the capacities and limitations of LLM-driven scientific research, and to develop ways of harnessing LLM to accelerate research while maintaining, and even enhancing, key scientific values, such as transparency, traceability and verifiability, and while allowing scientist to oversee and direct the process [see also: living guidelines].",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "(Pivoted to Chaindesk) No-code chatbot building\n",
+      "items": [],
+      "title": "Databerry"
+    },
+    {
+      "description": "Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Generates demo of a new app (of any purpose)\n",
+      "items": [],
+      "title": "DemoGPT"
+    },
+    {
+      "description": "Build-your-own, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Team of virtual developers\n",
+      "items": [],
+      "title": "DevGPT"
+    },
+    {
+      "description": "Coding, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agentic AI Software Engineer\n",
+      "items": [],
+      "title": "Devika"
+    },
+    {
+      "description": "Coding, general purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Open-source Devin alternative\n",
+      "items": [],
+      "title": "Devon"
+    },
+    {
+      "description": "Coding, general purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-Driven SW Development Automation Solution\n",
+      "items": [],
+      "title": "DevOpsGPT"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Welcome to the AI Driven Software Development Automation Solution, abbreviated as DevOpsGPT. We combine LLM (Large Language Model) with DevOps tools to convert natural language requirements into working software. This innovative feature greatly improves development efficiency, shortens development cycles, and reduces communication costs, resulting in higher-quality software delivery.",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "Deploy agents on cloud, PCs, or mobile devices\n",
+      "items": [],
+      "title": "dotagent"
+    },
+    {
+      "description": "Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Multi Agent SDK with pluggable, modular components\n",
+      "items": [],
+      "title": "Eidolon"
+    },
+    {
+      "description": "Build-your-own (agent-builing frameworks and platforms), SDK for AI apps",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Converting markdown specs into functional code\n",
+      "items": [],
+      "title": "English Compiler"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agent that adapts its persona to achive tasks\n",
+      "items": [],
+      "title": "evo.ninja"
+    },
+    {
+      "description": "General purpose, Research, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "The fastest way to deploy multi-agent workflows\n",
+      "items": [],
+      "title": "FastAgency"
+    },
+    {
+      "description": "Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-agent, Supports open-source models",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Low code Agent builder\n",
+      "items": [],
+      "title": "Flowise"
+    },
+    {
+      "description": "Build-your-own (agent-builing frameworks and platforms)",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI developer assistant for Node.js\n",
+      "items": [],
+      "title": "Friday"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Engineering platform engineering AI team member\n",
+      "items": [],
+      "title": "GeniA"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Inspired by AutoGPT and BabyAGI, with nice UI\n",
+      "items": [],
+      "title": "Godmode"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "The ultimate AI agent integration for Discord\n",
+      "items": [],
+      "title": "GPT Discord"
+    },
+    {
+      "description": "Content creation, Productivity, General purpose, Discord",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Generates entire codebase based on a prompt\n",
+      "items": [],
+      "title": "GPT Engineer"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Migrate codebase between frameworks/languages\n",
+      "items": [],
+      "title": "GPT Migrate"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Code the entire scalable app from scratch\n",
+      "items": [],
+      "title": "GPT Pilot"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent that researches entire internet on any topic\n",
+      "items": [],
+      "title": "GPT Researcher"
+    },
+    {
+      "description": "Research, Science",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent that converses with your files\n",
+      "items": [],
+      "title": "GPT Runner"
+    },
+    {
+      "description": "Research, Science",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Language Agents as Optimizable Graphs\n",
+      "items": [],
+      "title": "GPTSwarm"
+    },
+    {
+      "description": "Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agents building, debugging, and deploying platform\n",
+      "items": [],
+      "title": "IX"
+    },
+    {
+      "description": "Build your own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "System that connects LLMs with the ML community\n",
+      "items": [],
+      "title": "JARVIS"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Multi-agent framework for building LLM apps\n",
+      "items": [],
+      "title": "Langroid"
+    },
+    {
+      "description": "General purpose, Build your own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Plan-Validate-Solve agent for workflow automation\n",
+      "items": [],
+      "title": "Lemon Agent"
+    },
+    {
+      "description": "Productivity, Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Library for building agents, using tools, planning\n",
+      "items": [],
+      "title": "LLM Agents"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "No-code platform to build LLM Agents\n",
+      "items": [],
+      "title": "LLM Stack"
+    },
+    {
+      "description": "Build-your-own, no-code, web UI",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Chat with documents without compromising privacy\n",
+      "items": [],
+      "title": "Local GPT"
+    },
+    {
+      "description": "Research, Data analysis, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Re-implementation of AutoGPT as a Python package\n",
+      "items": [],
+      "title": "Loop GPT"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent framework able to produce large complex codebases and entire books\n",
+      "items": [],
+      "title": "L2MAC"
+    },
+    {
+      "description": "Multi-agent, Coding, Build your own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Natural-language workflows for your GitHub repo.\n",
+      "items": [],
+      "title": "Maige"
+    },
+    {
+      "description": "Coding, Productivity, Debugging, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AIDE for creating, deploying, monetizing agents\n",
+      "items": [],
+      "title": "Magick"
+    },
+    {
+      "description": "Coding, SDK for agents, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Open Source Hybrid AI Search Engine\n",
+      "items": [],
+      "title": "MemFree"
+    },
+    {
+      "description": "Open Source, AI Search, Build your own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Memory management system, providing context to LLM\n",
+      "items": [],
+      "title": "MemGPT"
+    },
+    {
+      "description": "Memory management, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Assists you with coding task from command line\n",
+      "items": [],
+      "title": "Mentat"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Mentat is the AI tool that assists you with any coding task, right from your command line. Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "Agent framework returning Design, Tasks, or Repo\n",
+      "items": [],
+      "title": "MetaGPT"
+    },
+    {
+      "description": "Multi-agent, Coding, Build your own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "General-purpose agent based on GPT-3.5 / GPT-4\n",
+      "items": [],
+      "title": "Mini AGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Implementation of a paper on Multiagent Debate\n",
+      "items": [],
+      "title": "Multiagent Debate"
+    },
+    {
+      "description": "General purpose, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Experimental multi-agent system\n",
+      "items": [],
+      "title": "Multi GPT"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "MutahunterAI: Accelerate developer productivity and code security with our open-source AI\n",
+      "items": [],
+      "title": "MutahunterAI"
+    },
+    {
+      "description": "Developer tools, Software security, Multi-agent, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Documentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T15:46:03Z",
+            "owner": "codeintegrity-ai",
+            "repo": "mutahunter",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T15:46:03Z",
+            "owner": "codeintegrity-ai",
+            "repo": "mutahunter",
+            "stars": 299
+          }
+        }
+      ],
+      "title": "Links"
+    },
+    {
+      "description": "Natural Language-Based Societies of Mind\n",
+      "items": [],
+      "title": "NLSOM"
+    },
+    {
+      "description": "Science, Multimodal, Social, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Multi-agent general purpose platform\n",
+      "items": [],
+      "title": "OpenAgents"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "R&D agents platform\n",
+      "items": [],
+      "title": "OpenAGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "OpenDevin: Code Less, Make More\n",
+      "items": [],
+      "title": "OpenDevin"
+    },
+    {
+      "description": "Coding, general purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Code interpreter that lets LLMs execute code\n",
+      "items": [],
+      "title": "Open Interpreter"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Development toolkit for prompt management & more\n",
+      "items": [],
+      "title": "Pezzo"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Tool for private interaction with your documents\n",
+      "items": [],
+      "title": "Private GPT"
+    },
+    {
+      "description": "Research, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agent that helps with nutrition and other goals\n",
+      "items": [],
+      "title": "PromethAI"
+    },
+    {
+      "description": "Productivity, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Open-source React.js Autonomous LLM Agent\n",
+      "items": [],
+      "title": "React Agent"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Let multimodal models operate a computer\n",
+      "items": [],
+      "title": "Self-operating computer"
+    },
+    {
+      "description": "Productivity, Research",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Your own junior AI developer, deployed via E2B UI\n",
+      "items": [],
+      "title": "Smol developer"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "VSCode extension that writes nodejs functions\n",
+      "items": [],
+      "title": "Stackwise"
+    },
+    {
+      "description": "Tool for agents, Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Tool that allows creating agents without coding\n",
+      "items": [],
+      "title": "Superagent"
+    },
+    {
+      "description": "Build-your-own, General purpose, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Framework to develop and deploy AI agents\n",
+      "items": [],
+      "title": "SuperAGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Paper on imperfect information games\n",
+      "items": [],
+      "title": "Suspicion Agent"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Open-source Devin alternative\n",
+      "items": [],
+      "title": "SWE Agent"
+    },
+    {
+      "description": "Coding, general purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Github assistant that fixes issues & writes code\n",
+      "items": [],
+      "title": "Sweep"
+    },
+    {
+      "description": "Coding, GitHub",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Taxy AI is a full browser automation\n",
+      "items": [],
+      "title": "Taxy AI"
+    },
+    {
+      "description": "General purpose, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "BabyAGI-inspired agent, can recall infinite memory\n",
+      "items": [],
+      "title": "Teenage AGI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "A UI-Focused agent on Windows OS\n",
+      "items": [],
+      "title": "UFO"
+    },
+    {
+      "description": "Multi-agent, GUI Agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Python-based AI SQL agent trained on your schema\n",
+      "items": [],
+      "title": "Vanna.AI"
+    },
+    {
+      "description": "Coding, Debugging, Code migration, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "LLM-powered lifelong learning agent in Minecraft\n",
+      "items": [],
+      "title": "Voyager"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Write & deploy smart contracts to EVM blockchains\n",
+      "items": [],
+      "title": "Web3 GPT"
+    },
+    {
+      "description": "Blockchain, Coding, Generating apps, Smart contract",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "A multi-agent environment simulation library\n",
+      "items": [],
+      "title": "“Westworld” simulation"
+    },
+    {
+      "description": "General purpose, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "GPT agent framework for invoking APIs\n",
+      "items": [],
+      "title": "WorkGPT"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Natural Language Interface to Your Databases\n",
+      "items": [],
+      "title": "Wren"
+    },
+    {
+      "description": "Coding, Data analysis, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Experimental LLM agent that solves various tasks\n",
+      "items": [],
+      "title": "XAgent"
+    },
+    {
+      "description": "General purpose, Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Capable of designing, coding and debugging tools\n",
+      "items": [],
+      "title": "yAgents"
+    },
+    {
+      "description": "Coding, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T20:25:58Z",
+            "owner": "genlayerlabs",
+            "repo": "yeagerai-agent",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License: MIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T20:25:58Z",
+            "owner": "genlayerlabs",
+            "repo": "yeagerai-agent",
+            "stars": 592
+          }
+        }
+      ],
+      "title": "Links"
+    },
+    {
+      "description": "Swift implementation of BabyAGI\n",
+      "items": [],
+      "title": "Yourgoal"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Secure, People-Centric Autonomous AI Agents\n",
+      "items": [],
+      "title": "Ability AI"
+    },
+    {
+      "description": "General purpose, Productivity, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "ML research and product lab building intelligence\n",
+      "items": [],
+      "title": "Adept AI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agents for company/regulations, search&monitoring\n",
+      "items": [],
+      "title": "AGENTS.inc"
+    },
+    {
+      "description": "Data analysis, Science, Monitoring, General purpose, Business intelligence, Supports open-source models",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Your assistant, email writer, calendar scheduler\n",
+      "items": [],
+      "title": "AgentScale"
+    },
+    {
+      "description": "General purpose, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI code interpreter, AI-powered mod of VSCode\n",
+      "items": [],
+      "title": "Aide by Codestory"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "No-code platform for building AI agents\n",
+      "items": [],
+      "title": "AilaFlow"
+    },
+    {
+      "description": "Build-your-own, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Platform for building, testing, deploying Agents\n",
+      "items": [],
+      "title": "Airkit.ai"
+    },
+    {
+      "description": "Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Autopilot AI assistant of the Airplane company\n",
+      "items": [],
+      "title": "Airplane Autopilot"
+    },
+    {
+      "description": "Coding, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agent designed for business intelligence\n",
+      "items": [],
+      "title": "Aomni"
+    },
+    {
+      "description": "Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Multiple AI Agents for the integration of APIs.\n",
+      "items": [],
+      "title": "APIDNA"
+    },
+    {
+      "description": "Productivity, Multi-agent, Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agents for sales, e-mails, book keeping & more\n",
+      "items": [],
+      "title": "Artisian AI"
+    },
+    {
+      "description": "Multi-agent, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Answer engine to search and generate knowledge\n",
+      "items": [],
+      "title": "Ask Pandi"
+    },
+    {
+      "description": "Productivity, Research, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Meet autonomous AI sales agents that close deals\n",
+      "items": [],
+      "title": "AskToSell"
+    },
+    {
+      "description": "Sales, Build-your-own, Business intelligence, Marketing",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Chat with SQL database, explore and visualize data\n",
+      "items": [],
+      "title": "AskYourDatabase"
+    },
+    {
+      "description": "Business intelligence, Productivity, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "24/7 Enterprise AI Data Analyst\n",
+      "items": [],
+      "title": "Athena Intelligence"
+    },
+    {
+      "description": "Data analysis, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agents for portfolio risk and asset allocation\n",
+      "items": [],
+      "title": "Avanzai"
+    },
+    {
+      "description": "Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and platforms), Finance, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI Agent for automating repetitive tasks\n",
+      "items": [],
+      "title": "Bardeen"
+    },
+    {
+      "description": "Productivity, Sales",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "A wide selection of AI agents automating workflows\n",
+      "items": [],
+      "title": "Beam"
+    },
+    {
+      "description": "Data analysis, Productivity, Build-your-own (agent-builing frameworks and platforms), Business intelligence, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Software That Builds Software\n",
+      "items": [],
+      "title": "Blackbox AI"
+    },
+    {
+      "description": "AI business assistant connected to all your tools\n",
+      "items": [],
+      "title": "Blobr"
+    },
+    {
+      "description": "Data analysis, Productivity, Marketig, Sales, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build an AI team that works for you, on your PC\n",
+      "items": [],
+      "title": "BrainSoup"
+    },
+    {
+      "description": "General purpose, Productivity, Data analysis, Multi-agent, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "No-code copilot that allows users to build AI apps\n",
+      "items": [],
+      "title": "broadn"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build fully-functioning, ready-to-launch website\n",
+      "items": [],
+      "title": "Butternut AI"
+    },
+    {
+      "description": "Web design, Design, Coding, Marketing",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Autocomplete AI assistant for work\n",
+      "items": [],
+      "title": "B2 AI"
+    },
+    {
+      "description": "Personal assistant, Business intelligence, Productivity, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-powered Business, Work, Study Assistant\n",
+      "items": [],
+      "title": "ChatHelp"
+    },
+    {
+      "description": "Data analysis, Content creation, Productivity, Research, Marketig, Sales, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI shopper that finds products for your taste\n",
+      "items": [],
+      "title": "Claros AI Shopper"
+    },
+    {
+      "description": "Personal assistant",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Agent that scrapes and summarize data from the web\n",
+      "items": [],
+      "title": "Claygent"
+    },
+    {
+      "description": "Productivity, Marketig, Sales, Finance, General purpose, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI Assistant for your project\n",
+      "items": [],
+      "title": "Code Autopilot"
+    },
+    {
+      "description": "Coding, Multi-agent, GitHub",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Solve tickets, write tests, level up your workflow\n",
+      "items": [],
+      "title": "Codegen"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI Agent for WordPress websites\n",
+      "items": [],
+      "title": "CodeWP"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Faster WordPress Development with domain-specific AI modes, tools, and features.",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "Coding multipurpose AI assistant for developers\n",
+      "items": [],
+      "title": "Codium AI"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Career Copilot and AI Agent for SW Developers\n",
+      "items": [],
+      "title": "Commit"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Web-based version of AutoGPT or BabyAGI\n",
+      "items": [],
+      "title": "Cognosys"
+    },
+    {
+      "description": "General purpose, Research",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI Agents for Software Testing\n",
+      "items": [],
+      "title": "ContextQA"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-powered Code Editor with VSCode-like UI\n",
+      "items": [],
+      "title": "Cursor"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Cursor is the AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "Interact with any UI, website or API\n",
+      "items": [],
+      "title": "Cykel"
+    },
+    {
+      "description": "General purpose, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "The first AI software engineer\n",
+      "items": [],
+      "title": "Devin"
+    },
+    {
+      "description": "General purpose, Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI design tools for everyone, acquired by Figma\n",
+      "items": [],
+      "title": "Diagram"
+    },
+    {
+      "description": "Design, Content creation",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI Sales Engineer for somplex B2B sales\n",
+      "items": [],
+      "title": "Docket AI"
+    },
+    {
+      "description": "Sales",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "GitHub repo AI teammate helping also with docs\n",
+      "items": [],
+      "title": "Dosu"
+    },
+    {
+      "description": "Coding, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Virtual assistant that help with data analytics\n",
+      "items": [],
+      "title": "Dot"
+    },
+    {
+      "description": "Data analysis, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Team of AI SW development companions (Ducklings)\n",
+      "items": [],
+      "title": "Duckie AI"
+    },
+    {
+      "description": "Coding, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "(Previously BitBuilder) \"Automated code reviews and bug fixes\"\n",
+      "items": [],
+      "title": "Ellipsis"
+    },
+    {
+      "description": "Coding, GitHub, GitLab",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Fully autonomous AI SW engineer in early stage\n",
+      "items": [],
+      "title": "encode"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Coding Droids for building software end-to-end\n",
+      "items": [],
+      "title": "Factory"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build Software with AI Agents\n",
+      "items": [],
+      "title": "Fine"
+    },
+    {
+      "description": "Coding, Multi-agent, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "(Pivoted to Synthflow) No-code platform for agents\n",
+      "items": [],
+      "title": "Fine Tuner"
+    },
+    {
+      "description": "Platform for creating LLM-powered AI apps\n",
+      "items": [],
+      "title": "Fixie"
+    },
+    {
+      "description": "Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Executive agent automating communication busywork\n",
+      "items": [],
+      "title": "Floode"
+    },
+    {
+      "description": "Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-powered software developer\n",
+      "items": [],
+      "title": "GitHub Copilot X"
+    },
+    {
+      "description": "Coding, GitHub",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI for every step of SW development lifecycle\n",
+      "items": [],
+      "title": "GitLab Duo"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Automate code generation with AI. In beta version\n",
+      "items": [],
+      "title": "GitWit"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Multimodal content creation autonomous agent\n",
+      "items": [],
+      "title": "GoCharlie"
+    },
+    {
+      "description": "Content creation, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "GoCharlie is a multimodal content creation autonomous agent.",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "API-first data platform for building apps with AI\n",
+      "items": [],
+      "title": "Graphlit"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Automating code migrations and dependency upgrades\n",
+      "items": [],
+      "title": "Grit"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Automate any workflow with AI\n",
+      "items": [],
+      "title": "Gumloop"
+    },
+    {
+      "description": "Productivity, data analysis, general purpose, marketing, legal, sales, HR, finance, education",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "For course creators, community builders & coaches\n",
+      "items": [],
+      "title": "Heights Platform"
+    },
+    {
+      "description": "Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI tools for doing amazing things with data\n",
+      "items": [],
+      "title": "Hex Magic"
+    },
+    {
+      "description": "Coding, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Keep you on top of your calendar, tasks and info\n",
+      "items": [],
+      "title": "Heymoon.ai"
+    },
+    {
+      "description": "Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI personal assistant that automates browser task\n",
+      "items": [],
+      "title": "iMean.AI"
+    },
+    {
+      "description": "Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms)",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-powered teammate that can collaborate on code\n",
+      "items": [],
+      "title": "Input"
+    },
+    {
+      "description": "Coding, Multi-agent, GitHub",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Terminal env for interacting with with AI agents\n",
+      "items": [],
+      "title": "Instrukt"
+    },
+    {
+      "description": "Coding, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build your first team of Autonomous AI Agents\n",
+      "items": [],
+      "title": "Invicta"
+    },
+    {
+      "description": "Build-your-own (agent-builing frameworks and platforms), Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI data processing, analysis, and visualization\n",
+      "items": [],
+      "title": "Julius"
+    },
+    {
+      "description": "Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Web Scraping on Autopilot with AI\n",
+      "items": [],
+      "title": "Kadoa"
+    },
+    {
+      "description": "Coding, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-led user interviews for rich human insights\n",
+      "items": [],
+      "title": "Juno"
+    },
+    {
+      "description": "Data analysis, Research, Business intelligence, web UI",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Pick your LLM & build custom conversational agent\n",
+      "items": [],
+      "title": "Kompas AI"
+    },
+    {
+      "description": "Productivity, Build-your-own, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agent for API testing\n",
+      "items": [],
+      "title": "Kusho"
+    },
+    {
+      "description": "Coding, Productivity, Debugging",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Voice Agents for Recruiting\n",
+      "items": [],
+      "title": "Kwal"
+    },
+    {
+      "description": "Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI assistant that can help with daily tasks\n",
+      "items": [],
+      "title": "Lindy"
+    },
+    {
+      "description": "Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Platform for creating AI workflows and apps\n",
+      "items": [],
+      "title": "Lutra AI"
+    },
+    {
+      "description": "General purpose, Business intelligence, Productivity, Content creation",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Personal automations made easy\n",
+      "items": [],
+      "title": "Magic Loops"
+    },
+    {
+      "description": "Coding, Content creation, Productivity, Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Art, Marketig, Sales, Finance, General purpose, Personal computing",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Generate + edit HTML components with text prompts\n",
+      "items": [],
+      "title": "Makedraft"
+    },
+    {
+      "description": "Coding, Productivity, Generating apps, Design, Content creation",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Automate technical business workflows\n",
+      "items": [],
+      "title": "Manaflow"
+    },
+    {
+      "description": "Productivity, Coding, Workflow automation",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "By creator of GitHub Copilot, in waitlist stage\n",
+      "items": [],
+      "title": "Minion AI"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "By creator of GitHub Copilot, in waitlist stage",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "Book a flight or order a burger with MultiOn\n",
+      "items": [],
+      "title": "MultiOn"
+    },
+    {
+      "description": "Productivity, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI-Accelerated Software Development\n",
+      "items": [],
+      "title": "Mutable AI"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build your own agents. In early stage\n",
+      "items": [],
+      "title": "Naut"
+    },
+    {
+      "description": "Build-your-own, Multi-agent",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "\"Build your team of AI agents that work for you. Early access now live. Join waitlist.\"",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "Build AI agents in minutes, without coding\n",
+      "items": [],
+      "title": "NexusGPT"
+    },
+    {
+      "description": "Technical challenges of building AI products, Business/marketing challenges of building AI products",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Chrome extension - general purpose AI agent\n",
+      "items": [],
+      "title": "Otherside's AI Assistant - Hyperwrite"
+    },
+    {
+      "description": "Productivity, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Personal programming and research AI assistant\n",
+      "items": [],
+      "title": "Phind"
+    },
+    {
+      "description": "Coding, research",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agent that completes your data job 10x faster\n",
+      "items": [],
+      "title": "Powerdrill AI"
+    },
+    {
+      "description": "Data analysis, Productivity, Research, Marketig, Sales, Finance",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Interaction APIs and SDKs for building AI agents\n",
+      "items": [],
+      "title": "Proficient AI"
+    },
+    {
+      "description": "Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Generative AI for Your Enterprise\n",
+      "items": [],
+      "title": "Promptly"
+    },
+    {
+      "description": "Build-your-own, no-code, web UI",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI workforce on Slack for under-resourced SMEs\n",
+      "items": [],
+      "title": "Q, ChatGPT for Slack"
+    },
+    {
+      "description": "General purpose, Personal assistant, Business intelligence, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Marketplace for autonomous AI workers with no-code\n",
+      "items": [],
+      "title": "Questflow"
+    },
+    {
+      "description": "Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "A Multi ai agents builder platform\n",
+      "items": [],
+      "title": "Rebyte"
+    },
+    {
+      "description": "General purpose, Generating apps, Build-your-own",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build your AI Workforce\n",
+      "items": [],
+      "title": "Relevance AI"
+    },
+    {
+      "description": "Content creation, Productivity, Research, Build-your-own (agent-builing frameworks and platforms), Marketig, Sales, General purpose, Multi-agent, Supports open-source models",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Digital AI assistant for notes, tasks, and tools\n",
+      "items": [],
+      "title": "Saga"
+    },
+    {
+      "description": "Productivity, Content creation",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Automated migrations and upgrades for your code\n",
+      "items": [],
+      "title": "Second"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI Agent operates browser to do your tasks for you\n",
+      "items": [],
+      "title": "Sentius"
+    },
+    {
+      "description": "General purpose, Multi-agent, Supports open-source models",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI assistant, enhance shopping experience.\n",
+      "items": [],
+      "title": "ShopPal"
+    },
+    {
+      "description": "Productivity, Research, Ecommerce",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AutoGPT agents with plugins\n",
+      "items": [],
+      "title": "Spell"
+    },
+    {
+      "description": "General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI copilot to your product's data dashboard\n",
+      "items": [],
+      "title": "Superluminal"
+    },
+    {
+      "description": "Coding, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Data discovery, cleaing, analysis & visualization\n",
+      "items": [],
+      "title": "TalktoData"
+    },
+    {
+      "description": "Coding, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Create, train, and run custom AI agents\n",
+      "items": [],
+      "title": "Taskade"
+    },
+    {
+      "description": "Build-your-own, General purpose, Productivity",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Financial AI agent platform\n",
+      "items": [],
+      "title": "ThinkChain AI"
+    },
+    {
+      "description": "Finance, Data analysis",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI Agent for QA in GitHub\n",
+      "items": [],
+      "title": "Test Driver"
+    },
+    {
+      "description": "Coding, Productivity, Debugging, Testing",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI engineer that pushes and tests code\n",
+      "items": [],
+      "title": "Tusk"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "AI agent helping Insurance Sales and Claims\n",
+      "items": [],
+      "title": "Vortic"
+    },
+    {
+      "description": "Productivity, Build-your-own (agent-builing frameworks and platforms), Sales, General purpose, Multi-agent, Supports open-source models",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Get React code based on Shadcn UI & Tailwind CSS\n",
+      "items": [],
+      "title": "v0 by Vercel"
+    },
+    {
+      "description": "Coding",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Summarize content, compose content, create quizzes\n",
+      "items": [],
+      "title": "Wispy"
+    },
+    {
+      "description": "Research, content creation",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Build better language model apps, fast.\n",
+      "items": [],
+      "title": "Wordware"
+    },
+    {
+      "description": "Build-your-own, Supports open-source models",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "The Only AI Platform you will ever need!\n",
+      "items": [],
+      "title": "WorkBot"
+    },
+    {
+      "description": "Science, Productivity, Business intelligence",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "Work hand in hand with AI bots\n",
+      "items": [],
+      "title": "Zapier Central"
+    },
+    {
+      "description": "Build-your-own, Productivity, General purpose",
+      "items": [],
+      "title": "Category"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":eight_pointed_black_star: AI apps & agents with sandbox integration or native support"
+    },
+    {
+      "description": "Superagent uses E2B as a code execution tool. To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.",
+      "items": [],
+      "title": ":eight_pointed_black_star: Superagent"
+    },
+    {
+      "description": "You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you. To try the OpenAI Assistants with E2B, you can follow our guide in Python or JavaScript.",
+      "items": [],
+      "title": ":eight_pointed_black_star: OpenAI's Assistants"
+    },
+    {
+      "description": "Contact us at hello@e2b.dev or on discord.\nWe are open-source and you can get started with E2B here.",
+      "items": [],
+      "title": "Want to use E2B with your AI product?"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:03.983Z",
+    "original_repository": "e2b-dev/awesome-ai-agents",
+    "original_repository_sha": "999f3c390b8a373ed243ee297ff32a433cd0d68b",
+    "enhanced_repository": "enhansome/enhansome-ai-agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open-source projects with stars"
+  }
+}
