@@ -284,7 +284,7 @@
             "last_commit": "2024-12-04T17:39:21Z",
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9505
+            "stars": 9504
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2024-12-04T17:39:21Z",
             "owner": "BloopAI",
             "repo": "bloop",
-            "stars": 9505
+            "stars": 9504
           }
         }
       ],
@@ -378,7 +378,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 33986
+            "stars": 33996
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 33986
+            "stars": 33996
           }
         }
       ],
@@ -484,10 +484,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:09:44Z",
+            "last_commit": "2026-08-14T01:27:38Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57004
+            "stars": 57057
           }
         },
         {
@@ -498,10 +498,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:09:44Z",
+            "last_commit": "2026-08-14T01:27:38Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57004
+            "stars": 57057
           }
         },
         {
@@ -512,10 +512,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:09:44Z",
+            "last_commit": "2026-08-14T01:27:38Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57004
+            "stars": 57057
           }
         }
       ],
@@ -2401,7 +2401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:03.983Z",
+    "last_updated": "2026-08-14T03:03:59.600Z",
     "original_repository": "e2b-dev/awesome-ai-agents",
     "original_repository_sha": "999f3c390b8a373ed243ee297ff32a433cd0d68b",
     "enhanced_repository": "enhansome/enhansome-ai-agents",
