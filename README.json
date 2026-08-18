@@ -378,7 +378,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34006
+            "stars": 34013
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34006
+            "stars": 34013
           }
         }
       ],
@@ -484,10 +484,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:40:05Z",
+            "last_commit": "2026-08-18T00:41:53Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57175
+            "stars": 57218
           }
         },
         {
@@ -498,10 +498,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:40:05Z",
+            "last_commit": "2026-08-18T00:41:53Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57175
+            "stars": 57218
           }
         },
         {
@@ -512,10 +512,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:40:05Z",
+            "last_commit": "2026-08-18T00:41:53Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57175
+            "stars": 57218
           }
         }
       ],
@@ -2401,7 +2401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:58:53.077Z",
+    "last_updated": "2026-08-18T01:55:12.875Z",
     "original_repository": "e2b-dev/awesome-ai-agents",
     "original_repository_sha": "999f3c390b8a373ed243ee297ff32a433cd0d68b",
     "enhanced_repository": "enhansome/enhansome-ai-agents",
