@@ -17,7 +17,7 @@
                 "last_commit": "2024-12-04T17:39:21Z",
                 "owner": "BloopAI",
                 "repo": "bloop",
-                "stars": 9503
+                "stars": 9501
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-12-04T17:39:21Z",
                 "owner": "BloopAI",
                 "repo": "bloop",
-                "stars": 9503
+                "stars": 9501
               }
             }
           ],
@@ -60,7 +60,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34060
+                "stars": 34079
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34060
+                "stars": 34079
               }
             }
           ],
@@ -100,10 +100,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-20T01:24:54Z",
+                "last_commit": "2026-08-21T01:41:13Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57341
+                "stars": 57396
               }
             },
             {
@@ -115,10 +115,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-20T01:24:54Z",
+                "last_commit": "2026-08-21T01:41:13Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57341
+                "stars": 57396
               }
             },
             {
@@ -130,10 +130,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-20T01:24:54Z",
+                "last_commit": "2026-08-21T01:41:13Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57341
+                "stars": 57396
               }
             }
           ],
@@ -253,7 +253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:55:50.077Z",
+    "last_updated": "2026-08-21T02:02:10.633Z",
     "original_repository": "e2b-dev/awesome-ai-agents",
     "original_repository_id": 655459367,
     "original_repository_sha": "999f3c390b8a373ed243ee297ff32a433cd0d68b",
