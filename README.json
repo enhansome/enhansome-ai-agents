@@ -60,7 +60,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34090
+                "stars": 34100
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34090
+                "stars": 34100
               }
             }
           ],
@@ -100,10 +100,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:57:51Z",
+                "last_commit": "2026-08-22T02:36:57Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57440
+                "stars": 57483
               }
             },
             {
@@ -115,10 +115,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:57:51Z",
+                "last_commit": "2026-08-22T02:36:57Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57440
+                "stars": 57483
               }
             },
             {
@@ -130,10 +130,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:57:51Z",
+                "last_commit": "2026-08-22T02:36:57Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57440
+                "stars": 57483
               }
             }
           ],
@@ -253,7 +253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:55:17.974Z",
+    "last_updated": "2026-08-23T02:06:21.576Z",
     "original_repository": "e2b-dev/awesome-ai-agents",
     "original_repository_id": 655459367,
     "original_repository_sha": "9596ab1e69fbbb6c95291141c8dab5c181083216",
