@@ -1,8 +1,2694 @@
 {
   "items": [
     {
-      "description": "AI code search, works for Rust and Typescript",
+      "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 685048844,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T08:57:59Z",
+                    "owner": "HumanSignal",
+                    "repo": "Adala",
+                    "stars": 1622
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Adala: Autonomous Data (Labeling) Agent framework",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 685048844,
+            "language": "Python",
+            "last_commit": "2026-08-09T08:57:59Z",
+            "owner": "HumanSignal",
+            "repo": "Adala",
+            "stars": 1622
+          },
+          "title": "Adala"
+        },
+        {
+          "children": [],
+          "description": "Recommender system simulator with 1,000 agents",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 703832941,
+            "language": "Python",
+            "last_commit": "2024-07-07T05:45:01Z",
+            "owner": "LehengTHU",
+            "repo": "Agent4Rec",
+            "stars": 498
+          },
+          "title": "Agent4Rec"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625297895,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T20:45:31Z",
+                    "owner": "DataBassGit",
+                    "repo": "AgentForge",
+                    "stars": 843
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "LLM-agnostic platform for agent building & testing",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 625297895,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:45:31Z",
+            "owner": "DataBassGit",
+            "repo": "AgentForge",
+            "stars": 843
+          },
+          "title": "AgentForge"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 624681066,
+                    "language": "TypeScript",
+                    "last_commit": "2025-04-29T01:19:32Z",
+                    "owner": "reworkd",
+                    "repo": "AgentGPT",
+                    "stars": 36304
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Browser-based no-code version of AutoGPT",
+          "node_type": "group",
+          "title": "AgentGPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 690004917,
+                    "language": "Python",
+                    "last_commit": "2026-04-14T04:11:29Z",
+                    "owner": "jbexta",
+                    "repo": "AgentPilot",
+                    "stars": 565
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Build, manage, and chat with agents in desktop app",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 690004917,
+            "language": "Python",
+            "last_commit": "2026-04-14T04:11:29Z",
+            "owner": "jbexta",
+            "repo": "AgentPilot",
+            "stars": 565
+          },
+          "title": "AgentPilot"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Tool Usage: Language agents in the library can use any external tools via function-calling",
+                  "description": "and developers can add customized tools/APIs here.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 667645956,
+                    "language": "Python",
+                    "last_commit": "2024-09-26T03:12:53Z",
+                    "owner": "aiwaves-cn",
+                    "repo": "agents",
+                    "stars": 5957
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Description"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub Repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 667645956,
+                    "language": "Python",
+                    "last_commit": "2024-09-26T03:12:53Z",
+                    "owner": "aiwaves-cn",
+                    "repo": "agents",
+                    "stars": 5957
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Library/framework for building language agents",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 667645956,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          },
+          "title": "Agents"
+        },
+        {
+          "children": [],
+          "description": "Platform for task-solving & simulation agents",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 636922549,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5114
+          },
+          "title": "AgentVerse"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626121747,
+                    "language": "TypeScript",
+                    "last_commit": "2025-05-27T23:52:06Z",
+                    "owner": "eumemic",
+                    "repo": "ai-legion",
+                    "stars": 1433
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Multi-agent TS platform, similar to AutoGPT",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 626121747,
+            "language": "TypeScript",
+            "last_commit": "2025-05-27T23:52:06Z",
+            "owner": "eumemic",
+            "repo": "ai-legion",
+            "stars": 1433
+          },
+          "title": "AI Legion"
+        },
+        {
+          "children": [],
+          "description": "Use command line to edit code in your local repo",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 638629097,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48452
+          },
+          "title": "Aider"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 705433491,
+                    "language": "Python",
+                    "last_commit": "2025-08-18T03:24:03Z",
+                    "owner": "myshell-ai",
+                    "repo": "AIlice",
+                    "stars": 1411
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Create agents-calling tree to execute your tasks",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 705433491,
+            "language": "Python",
+            "last_commit": "2025-08-18T03:24:03Z",
+            "owner": "myshell-ai",
+            "repo": "AIlice",
+            "stars": 1411
+          },
+          "title": "AIlice"
+        },
+        {
+          "children": [],
+          "description": "Multi-agent framework with diversity of agents",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 680120071,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60607
+          },
+          "title": "AutoGen"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614765452,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T11:07:27Z",
+                    "owner": "Significant-Gravitas",
+                    "repo": "AutoGPT",
+                    "stars": 186849
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Experimental attempt to make GPT4 fully autonomous",
+          "node_type": "group",
+          "title": "AutoGPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 656278816,
+                    "language": "Python",
+                    "last_commit": "2023-09-05T21:24:32Z",
+                    "owner": "emrgnt-cmplxty",
+                    "repo": "automata",
+                    "stars": 680
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Generate code based on your project context",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 656278816,
+            "language": "Python",
+            "last_commit": "2023-09-05T21:24:32Z",
+            "owner": "emrgnt-cmplxty",
+            "repo": "automata",
+            "stars": 680
+          },
+          "title": "Automata"
+        },
+        {
+          "children": [],
+          "description": "AI-generated pull requests agent that fixes issues",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 615692917,
+            "language": "Python",
+            "last_commit": "2026-03-05T23:34:26Z",
+            "owner": "irgolic",
+            "repo": "AutoPR",
+            "stars": 1371
+          },
+          "title": "AutoPR"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 654037367,
+                    "language": "Python",
+                    "last_commit": "2026-04-29T06:34:58Z",
+                    "owner": "stepanogil",
+                    "repo": "autonomous-hr-chatbot",
+                    "stars": 460
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Agent that answers HR-related queries using tools",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 654037367,
+            "language": "Python",
+            "last_commit": "2026-04-29T06:34:58Z",
+            "owner": "stepanogil",
+            "repo": "autonomous-hr-chatbot",
+            "stars": 460
+          },
+          "title": "Autonomous HR Chatbot"
+        },
+        {
+          "children": [],
+          "description": "A simple framework for managing tasks using AI",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 622737738,
+            "language": "Python",
+            "last_commit": "2026-01-31T05:05:45Z",
+            "owner": "yoheinakajima",
+            "repo": "babyagi",
+            "stars": 22356
+          },
+          "title": "BabyAGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622737738,
+                    "language": "Python",
+                    "last_commit": "2026-01-31T05:05:45Z",
+                    "owner": "yoheinakajima",
+                    "repo": "babyagi",
+                    "stars": 22356
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Task management & functionality BabyAGI expansion",
+          "node_type": "group",
+          "title": "BabyBeeAGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622737738,
+                    "language": "Python",
+                    "last_commit": "2026-01-31T05:05:45Z",
+                    "owner": "yoheinakajima",
+                    "repo": "babyagi",
+                    "stars": 22356
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "BabyCatAGI is a mod of BabyBeeAGI",
+          "node_type": "group",
+          "title": "BabyCatAGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622737738,
+                    "language": "Python",
+                    "last_commit": "2026-01-31T05:05:45Z",
+                    "owner": "yoheinakajima",
+                    "repo": "babyagi",
+                    "stars": 22356
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Mod of BabyAGI with only ~350 lines of code",
+          "node_type": "group",
+          "title": "BabyDeerAGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622737738,
+                    "language": "Python",
+                    "last_commit": "2026-01-31T05:05:45Z",
+                    "owner": "yoheinakajima",
+                    "repo": "babyagi",
+                    "stars": 22356
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Mod of BabyDeerAGI, with ~895 lines of code",
+          "node_type": "group",
+          "title": "BabyElfAGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "An AI agent based on @yoheinakajima's BabyAGI",
+                  "description": "which executes shell commands",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622737738,
+                    "language": "Python",
+                    "last_commit": "2026-01-31T05:05:45Z",
+                    "owner": "yoheinakajima",
+                    "repo": "babyagi",
+                    "stars": 22356
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Description"
+            }
+          ],
+          "description": "Test what happens when you combine CLI and LLM",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 641600237,
+            "language": "Python",
+            "last_commit": "2025-06-11T15:37:12Z",
+            "owner": "saten-private",
+            "repo": "BabyCommandAGI",
+            "stars": 61
+          },
+          "title": "BabyCommandAGI"
+        },
+        {
+          "children": [],
+          "description": "Mod of BabyAGI with a new parallel UI panel",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 622737738,
+            "language": "Python",
+            "last_commit": "2026-01-31T05:05:45Z",
+            "owner": "yoheinakajima",
+            "repo": "babyagi",
+            "stars": 22356
+          },
+          "title": "BabyFoxAGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637253688,
+                    "language": "Python",
+                    "last_commit": "2026-06-03T04:53:42Z",
+                    "owner": "pgalko",
+                    "repo": "BambooAI",
+                    "stars": 785
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Data exploration and analysis for non-programmers",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 637253688,
+            "language": "Python",
+            "last_commit": "2026-06-03T04:53:42Z",
+            "owner": "pgalko",
+            "repo": "BambooAI",
+            "stars": 785
+          },
+          "title": "BambooAI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 665298172,
+                    "language": "Python",
+                    "last_commit": "2023-10-22T23:25:16Z",
+                    "owner": "erik-megarad",
+                    "repo": "beebot",
+                    "stars": 452
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Early-stage project for wide range of tasks",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 665298172,
+            "language": "Python",
+            "last_commit": "2023-10-22T23:25:16Z",
+            "owner": "erik-megarad",
+            "repo": "beebot",
+            "stars": 452
+          },
+          "title": "BeeBot"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 804482419,
+                    "language": "TypeScript",
+                    "last_commit": "2024-06-03T01:34:13Z",
+                    "owner": "seahyinghang8",
+                    "repo": "blinky",
+                    "stars": 90
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "An open-source AI debugging agent for VSCode",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 804482419,
+            "language": "TypeScript",
+            "last_commit": "2024-06-03T01:34:13Z",
+            "owner": "seahyinghang8",
+            "repo": "blinky",
+            "stars": 90
+          },
+          "title": "Blinky"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 576642715,
+                    "language": "Rust",
+                    "last_commit": "2024-12-04T17:39:21Z",
+                    "owner": "BloopAI",
+                    "repo": "bloop",
+                    "stars": 9499
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bloop apps",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 576642715,
+                    "language": "Rust",
+                    "last_commit": "2024-12-04T17:39:21Z",
+                    "owner": "BloopAI",
+                    "repo": "bloop",
+                    "stars": 9499
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "AI code search, works for Rust and Typescript",
+          "node_type": "group",
+          "title": "Bloop"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Github Repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 666903272,
+                    "language": "Python",
+                    "last_commit": "2024-01-14T02:06:07Z",
+                    "owner": "krohling",
+                    "repo": "bondai",
+                    "stars": 224
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Code interpreter with CLI & RESTful/WebSocket API",
+          "node_type": "group",
+          "title": "BondAI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 784460496,
+                    "language": "TypeScript",
+                    "last_commit": "2024-08-05T00:43:06Z",
+                    "owner": "xeol-io",
+                    "repo": "bumpgen",
+                    "stars": 146
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "AI agent that keeps npm dependencies up-to-date",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 784460496,
+            "language": "TypeScript",
+            "last_commit": "2024-08-05T00:43:06Z",
+            "owner": "xeol-io",
+            "repo": "bumpgen",
+            "stars": 146
+          },
+          "title": "bumpgen"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 350360184,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-08T17:13:42Z",
+                    "owner": "calcom",
+                    "repo": "cal.diy",
+                    "stars": 47902
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Description"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Authors: Cal.com core team",
+                  "description": ", Dexter Storey, Ted Spare",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 350360184,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-08T17:13:42Z",
+                    "owner": "calcom",
+                    "repo": "cal.diy",
+                    "stars": 47902
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Open-source scheduling assistant built on Cal.com",
+          "node_type": "group",
+          "title": "Cal.ai"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 615510678,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T11:36:45Z",
+                    "owner": "camel-ai",
+                    "repo": "camel",
+                    "stars": 17631
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Architecture for “Mind” Exploration of agents",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 615510678,
+            "language": "Python",
+            "last_commit": "2026-08-21T11:36:45Z",
+            "owner": "camel-ai",
+            "repo": "camel",
+            "stars": 17631
+          },
+          "title": "CAMEL"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 610487003,
+                    "language": "Python",
+                    "last_commit": "2025-08-11T20:19:17Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "ChatArena",
+                    "stars": 1556
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "A chat tool for multi agent interaction",
+          "node_type": "group",
+          "title": "ChatArena"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Local demo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 683892956,
+                    "language": "Python",
+                    "last_commit": "2026-07-24T08:01:27Z",
+                    "owner": "OpenBMB",
+                    "repo": "ChatDev",
+                    "stars": 34114
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 683892956,
+                    "language": "Python",
+                    "last_commit": "2026-07-24T08:01:27Z",
+                    "owner": "OpenBMB",
+                    "repo": "ChatDev",
+                    "stars": 34114
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Communicative agents for software development",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 683892956,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:01:27Z",
+            "owner": "OpenBMB",
+            "repo": "ChatDev",
+            "stars": 34114
+          },
+          "title": "ChatDev"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 649361700,
+                    "language": "Python",
+                    "last_commit": "2024-12-19T17:47:04Z",
+                    "owner": "ur-whitelab",
+                    "repo": "chemcrow-public",
+                    "stars": 944
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "LangChain agent for chemistry-related tasks",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 649361700,
+            "language": "Python",
+            "last_commit": "2024-12-19T17:47:04Z",
+            "owner": "ur-whitelab",
+            "repo": "chemcrow-public",
+            "stars": 944
+          },
+          "title": "ChemCrow"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628956046,
+                    "language": "Python",
+                    "last_commit": "2024-05-05T12:31:29Z",
+                    "owner": "ennucore",
+                    "repo": "clippinator",
+                    "stars": 411
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Agent that can plan, write, debug, and test code",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 628956046,
+            "language": "Python",
+            "last_commit": "2024-05-05T12:31:29Z",
+            "owner": "ennucore",
+            "repo": "clippinator",
+            "stars": 411
+          },
+          "title": "Clippy"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 697550206,
+                    "language": "Python",
+                    "last_commit": "2024-07-01T09:16:47Z",
+                    "owner": "codefuse-ai",
+                    "repo": "codefuse-chatbot",
+                    "stars": 1290
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Agent serving entire SW development lifecycle",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 697550206,
+            "language": "Python",
+            "last_commit": "2024-07-01T09:16:47Z",
+            "owner": "codefuse-ai",
+            "repo": "codefuse-chatbot",
+            "stars": 1290
+          },
+          "title": "CodeFuse-ChatBot"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 669551037,
+                    "language": "Python",
+                    "last_commit": "2025-03-11T22:24:29Z",
+                    "owner": "ajhous44",
+                    "repo": "cody",
+                    "stars": 66
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Query and navigate your codebase",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 669551037,
+            "language": "Python",
+            "last_commit": "2025-03-11T22:24:29Z",
+            "owner": "ajhous44",
+            "repo": "cody",
+            "stars": 66
+          },
+          "title": "Cody by ajhous44"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 644686905,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T09:25:36Z",
+                    "owner": "continuedev",
+                    "repo": "continue",
+                    "stars": 35609
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Open-source autopilot for software development",
+          "node_type": "group",
+          "title": "Continue"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 710601088,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:16:05Z",
+                    "owner": "crewAIInc",
+                    "repo": "crewAI",
+                    "stars": 57552
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Crew AI Wiki with examples and guides",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 710601088,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:16:05Z",
+                    "owner": "crewAIInc",
+                    "repo": "crewAI",
+                    "stars": 57552
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Docs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 710601088,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:16:05Z",
+                    "owner": "crewAIInc",
+                    "repo": "crewAI",
+                    "stars": 57552
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Framework for orchestrating role-playing agents",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 710601088,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:16:05Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57552
+          },
+          "title": "CrewAI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 654902878,
+                    "language": "Python",
+                    "last_commit": "2025-07-19T15:01:19Z",
+                    "owner": "Technion-Kishony-lab",
+                    "repo": "data-to-paper",
+                    "stars": 816
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "AI-driven research from data to human-verifiable research papers",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 654902878,
+            "language": "Python",
+            "last_commit": "2025-07-19T15:01:19Z",
+            "owner": "Technion-Kishony-lab",
+            "repo": "data-to-paper",
+            "stars": 816
+          },
+          "title": "data-to-paper"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 619814004,
+                    "language": null,
+                    "last_commit": "2024-06-17T12:36:06Z",
+                    "owner": "gmpetrov",
+                    "repo": "databerry",
+                    "stars": 2967
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "(Pivoted to Chaindesk) No-code chatbot building",
+          "node_type": "group",
+          "title": "Databerry"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Github",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 650549146,
+                    "language": "Python",
+                    "last_commit": "2026-04-01T12:30:12Z",
+                    "owner": "melih-unsal",
+                    "repo": "DemoGPT",
+                    "stars": 1904
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Generates demo of a new app (of any purpose)",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 650549146,
+            "language": "Python",
+            "last_commit": "2026-04-01T12:30:12Z",
+            "owner": "melih-unsal",
+            "repo": "DemoGPT",
+            "stars": 1904
+          },
+          "title": "DemoGPT"
+        },
+        {
+          "children": [],
+          "description": "Team of virtual developers",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 615256382,
+            "language": "Python",
+            "last_commit": "2023-08-01T09:42:54Z",
+            "owner": "jina-ai",
+            "repo": "dev-gpt",
+            "stars": 1868
+          },
+          "title": "DevGPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 775250190,
+                    "language": "Python",
+                    "last_commit": "2025-09-25T08:47:36Z",
+                    "owner": "stitionai",
+                    "repo": "devika",
+                    "stars": 19560
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Agentic AI Software Engineer",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 775250190,
+            "language": "Python",
+            "last_commit": "2025-09-25T08:47:36Z",
+            "owner": "stitionai",
+            "repo": "devika",
+            "stars": 19560
+          },
+          "title": "Devika"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 772385740,
+                    "language": "Python",
+                    "last_commit": "2025-05-26T05:47:27Z",
+                    "owner": "entropy-research",
+                    "repo": "Devon",
+                    "stars": 3454
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Open-source Devin alternative",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 772385740,
+            "language": "Python",
+            "last_commit": "2025-05-26T05:47:27Z",
+            "owner": "entropy-research",
+            "repo": "Devon",
+            "stars": 3454
+          },
+          "title": "Devon"
+        },
+        {
+          "children": [],
+          "description": "AI-Driven SW Development Automation Solution",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 665445324,
+            "language": "HTML",
+            "last_commit": "2024-08-14T09:11:08Z",
+            "owner": "kuafuai",
+            "repo": "DevOpsGPT",
+            "stars": 5965
+          },
+          "title": "DevOpsGPT"
+        },
+        {
+          "children": [],
+          "description": "Deploy agents on cloud, PCs, or mobile devices",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 675660259,
+            "language": "Python",
+            "last_commit": "2024-05-01T09:46:55Z",
+            "owner": "dot-agent",
+            "repo": "nextpy",
+            "stars": 2348
+          },
+          "title": "dotagent"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 717216771,
+                    "language": "Python",
+                    "last_commit": "2026-05-20T02:52:18Z",
+                    "owner": "eidolon-ai",
+                    "repo": "eidolon",
+                    "stars": 491
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Multi Agent SDK with pluggable, modular components",
+          "node_type": "group",
+          "title": "Eidolon"
+        },
+        {
+          "children": [],
+          "description": "Converting markdown specs into functional code",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 602951401,
+            "language": "JavaScript",
+            "last_commit": "2024-02-05T12:40:52Z",
+            "owner": "uilicious",
+            "repo": "english-compiler",
+            "stars": 298
+          },
+          "title": "English Compiler"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 680108746,
+                    "language": "TypeScript",
+                    "last_commit": "2024-07-19T17:08:20Z",
+                    "owner": "agentcoinorg",
+                    "repo": "evo.ninja",
+                    "stars": 1081
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "AI agent that adapts its persona to achive tasks",
+          "node_type": "group",
+          "title": "evo.ninja"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 829825571,
+                    "language": "Python",
+                    "last_commit": "2026-02-23T00:49:21Z",
+                    "owner": "ag2ai",
+                    "repo": "fastagency",
+                    "stars": 547
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "The fastest way to deploy multi-agent workflows",
+          "node_type": "group",
+          "title": "FastAgency"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 621803253,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T12:38:19Z",
+                    "owner": "FlowiseAI",
+                    "repo": "Flowise",
+                    "stars": 55390
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Low code Agent builder",
+          "node_type": "group",
+          "title": "Flowise"
+        },
+        {
+          "children": [],
+          "description": "AI developer assistant for Node.js",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 643248622,
+            "language": "JavaScript",
+            "last_commit": "2023-05-24T22:59:04Z",
+            "owner": "amirrezasalimi",
+            "repo": "friday",
+            "stars": 65
+          },
+          "title": "Friday"
+        },
+        {
+          "children": [],
+          "description": "Engineering platform engineering AI team member",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 670350959,
+            "language": "Python",
+            "last_commit": "2023-11-22T15:25:21Z",
+            "owner": "genia-dev",
+            "repo": "GeniA",
+            "stars": 409
+          },
+          "title": "GeniA"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626595294,
+                    "language": "Python",
+                    "last_commit": "2024-11-30T10:56:23Z",
+                    "owner": "FOLLGAD",
+                    "repo": "godmode",
+                    "stars": 231
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Inspired by AutoGPT and BabyAGI, with nice UI",
+          "node_type": "group",
+          "title": "Godmode"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575751232,
+                    "language": "Python",
+                    "last_commit": "2026-02-06T23:33:50Z",
+                    "owner": "Kav-K",
+                    "repo": "GPTDiscord",
+                    "stars": 1854
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "The ultimate AI agent integration for Discord",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 575751232,
+            "language": "Python",
+            "last_commit": "2026-02-06T23:33:50Z",
+            "owner": "Kav-K",
+            "repo": "GPTDiscord",
+            "stars": 1854
+          },
+          "title": "GPT Discord"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 634224458,
+                    "language": "Python",
+                    "last_commit": "2025-05-14T10:15:10Z",
+                    "owner": "AntonOsika",
+                    "repo": "gpt-engineer",
+                    "stars": 55122
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Generates entire codebase based on a prompt",
+          "node_type": "group",
+          "title": "GPT Engineer"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GPT Migrate team is working on adding benchmarks",
+                  "description": "for the agent",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 658136967,
+                    "language": "Python",
+                    "last_commit": "2024-09-17T23:13:51Z",
+                    "owner": "joshpxyne",
+                    "repo": "gpt-migrate",
+                    "stars": 6979
+                  }
+                }
+              ],
+              "description": "GOT Migrate easily migrates your codebase from one framework or language to another.",
+              "node_type": "group",
+              "title": "Description"
+            }
+          ],
+          "description": "Migrate codebase between frameworks/languages",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 658136967,
+            "language": "Python",
+            "last_commit": "2024-09-17T23:13:51Z",
+            "owner": "joshpxyne",
+            "repo": "gpt-migrate",
+            "stars": 6979
+          },
+          "title": "GPT Migrate"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 679237742,
+                    "language": "Python",
+                    "last_commit": "2026-06-18T18:38:25Z",
+                    "owner": "Pythagora-io",
+                    "repo": "gpt-pilot",
+                    "stars": 33686
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Code the entire scalable app from scratch",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 679237742,
+            "language": "Python",
+            "last_commit": "2026-06-18T18:38:25Z",
+            "owner": "Pythagora-io",
+            "repo": "gpt-pilot",
+            "stars": 33686
+          },
+          "title": "GPT Pilot"
+        },
+        {
+          "children": [],
+          "description": "Agent that researches entire internet on any topic",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 639835356,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:58:46Z",
+            "owner": "assafelovic",
+            "repo": "gpt-researcher",
+            "stars": 29124
+          },
+          "title": "GPT Researcher"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Website",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 640476297,
+                    "language": "TypeScript",
+                    "last_commit": "2023-09-11T13:14:48Z",
+                    "owner": "nicepkg",
+                    "repo": "gpt-runner",
+                    "stars": 384
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Agent that converses with your files",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 640476297,
+            "language": "TypeScript",
+            "last_commit": "2023-09-11T13:14:48Z",
+            "owner": "nicepkg",
+            "repo": "gpt-runner",
+            "stars": 384
+          },
+          "title": "GPT Runner"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 763733771,
+                    "language": "Python",
+                    "last_commit": "2026-02-05T10:39:09Z",
+                    "owner": "metauto-ai",
+                    "repo": "GPTSwarm",
+                    "stars": 1038
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Language Agents as Optimizable Graphs",
+          "node_type": "group",
+          "title": "GPTSwarm"
+        },
+        {
+          "children": [],
+          "description": "Agents building, debugging, and deploying platform",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 623760713,
+            "language": "Python",
+            "last_commit": "2026-01-01T05:38:33Z",
+            "owner": "kreneskyp",
+            "repo": "ix",
+            "stars": 1044
+          },
+          "title": "IX"
+        },
+        {
+          "children": [],
+          "description": "System that connects LLMs with the ML community",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 621118467,
+            "language": "Python",
+            "last_commit": "2025-07-29T13:44:13Z",
+            "owner": "microsoft",
+            "repo": "JARVIS",
+            "stars": 25204
+          },
+          "title": "JARVIS"
+        },
+        {
+          "children": [],
+          "description": "Multi-agent framework for building LLM apps",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 628729877,
+            "language": "Python",
+            "last_commit": "2026-08-23T23:24:57Z",
+            "owner": "langroid",
+            "repo": "langroid",
+            "stars": 4100
+          },
+          "title": "Langroid"
+        },
+        {
+          "children": [],
+          "description": "Plan-Validate-Solve agent for workflow automation",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 658937372,
+            "language": "TypeScript",
+            "last_commit": "2023-09-25T15:54:19Z",
+            "owner": "felixbrock",
+            "repo": "lemon-agent",
+            "stars": 350
+          },
+          "title": "Lemon Agent"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 623679404,
+                    "language": "Python",
+                    "last_commit": "2025-06-23T14:01:18Z",
+                    "owner": "mpaepper",
+                    "repo": "llm_agents",
+                    "stars": 1053
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Library for building agents, using tools, planning",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 623679404,
+            "language": "Python",
+            "last_commit": "2025-06-23T14:01:18Z",
+            "owner": "mpaepper",
+            "repo": "llm_agents",
+            "stars": 1053
+          },
+          "title": "LLM Agents"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 675151062,
+                    "language": "Python",
+                    "last_commit": "2024-12-11T19:59:51Z",
+                    "owner": "trypromptly",
+                    "repo": "LLMStack",
+                    "stars": 2310
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "No-code platform to build LLM Agents",
+          "node_type": "group",
+          "title": "LLM Stack"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 644715009,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T01:31:02Z",
+                    "owner": "PromtEngineer",
+                    "repo": "localGPT",
+                    "stars": 22209
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Chat with documents without compromising privacy",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 644715009,
+            "language": "Python",
+            "last_commit": "2026-08-21T01:31:02Z",
+            "owner": "PromtEngineer",
+            "repo": "localGPT",
+            "stars": 22209
+          },
+          "title": "Local GPT"
+        },
+        {
+          "children": [],
+          "description": "Re-implementation of AutoGPT as a Python package",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 628087446,
+            "language": "Python",
+            "last_commit": "2026-07-03T09:29:12Z",
+            "owner": "vitalops",
+            "repo": "openvibe",
+            "stars": 1450
+          },
+          "title": "Loop GPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 769128105,
+                    "language": "Python",
+                    "last_commit": "2024-12-27T00:50:24Z",
+                    "owner": "samholt",
+                    "repo": "L2MAC",
+                    "stars": 159
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Agent framework able to produce large complex codebases and entire books",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 769128105,
+            "language": "Python",
+            "last_commit": "2024-12-27T00:50:24Z",
+            "owner": "samholt",
+            "repo": "L2MAC",
+            "stars": 159
+          },
+          "title": "L2MAC"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 612356020,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-13T21:44:34Z",
+                    "owner": "RubricLab",
+                    "repo": "maige",
+                    "stars": 103
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Natural-language workflows for your GitHub repo.",
+          "node_type": "group",
+          "title": "Maige"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 569937782,
+                    "language": "TypeScript",
+                    "last_commit": "2025-06-24T18:36:14Z",
+                    "owner": "Oneirocom",
+                    "repo": "Magick",
+                    "stars": 847
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "AIDE for creating, deploying, monetizing agents",
+          "node_type": "group",
+          "title": "Magick"
+        },
+        {
+          "children": [],
+          "description": "Open Source Hybrid AI Search Engine",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 815403287,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:02:53Z",
+            "owner": "memfreeme",
+            "repo": "memfree",
+            "stars": 1507
+          },
+          "title": "MemFree"
+        },
+        {
+          "children": [],
+          "description": "Memory management system, providing context to LLM",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 703411624,
+            "language": null,
+            "last_commit": "2026-08-23T19:05:43Z",
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 24400
+          },
+          "title": "MemGPT"
+        },
+        {
+          "children": [],
+          "description": "Assists you with coding task from command line",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 670734919,
+            "language": "Python",
+            "last_commit": "2025-01-07T22:52:59Z",
+            "owner": "AbanteAI",
+            "repo": "archive-old-cli-mentat",
+            "stars": 2544
+          },
+          "title": "Mentat"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 660551251,
+                    "language": "Python",
+                    "last_commit": "2026-01-21T10:12:33Z",
+                    "owner": "FoundationAgents",
+                    "repo": "MetaGPT",
+                    "stars": 69994
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Agent framework returning Design, Tasks, or Repo",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 660551251,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69994
+          },
+          "title": "MetaGPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 627744002,
+                    "language": "Python",
+                    "last_commit": "2023-06-14T05:47:59Z",
+                    "owner": "muellerberndt",
+                    "repo": "mini-agi",
+                    "stars": 2900
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "General-purpose agent based on GPT-3.5 / GPT-4",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 627744002,
+            "language": "Python",
+            "last_commit": "2023-06-14T05:47:59Z",
+            "owner": "muellerberndt",
+            "repo": "mini-agi",
+            "stars": 2900
+          },
+          "title": "Mini AGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 644480295,
+                    "language": "Python",
+                    "last_commit": "2025-04-24T21:49:03Z",
+                    "owner": "composable-models",
+                    "repo": "llm_multiagent_debate",
+                    "stars": 548
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Implementation of a paper on Multiagent Debate",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 644480295,
+            "language": "Python",
+            "last_commit": "2025-04-24T21:49:03Z",
+            "owner": "composable-models",
+            "repo": "llm_multiagent_debate",
+            "stars": 548
+          },
+          "title": "Multiagent Debate"
+        },
+        {
+          "children": [],
+          "description": "Experimental multi-agent system",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 628316782,
+            "language": "Python",
+            "last_commit": "2023-10-10T20:38:15Z",
+            "owner": "sidhq",
+            "repo": "Multi-GPT",
+            "stars": 564
+          },
+          "title": "Multi GPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Documentation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 818429323,
+                    "language": "Python",
+                    "last_commit": "2025-04-17T15:46:03Z",
+                    "owner": "codeintegrity-ai",
+                    "repo": "mutahunter",
+                    "stars": 299
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 818429323,
+                    "language": "Python",
+                    "last_commit": "2025-04-17T15:46:03Z",
+                    "owner": "codeintegrity-ai",
+                    "repo": "mutahunter",
+                    "stars": 299
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "MutahunterAI: Accelerate developer productivity and code security with our open-source AI",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 818429323,
+            "language": "Python",
+            "last_commit": "2025-04-17T15:46:03Z",
+            "owner": "codeintegrity-ai",
+            "repo": "mutahunter",
+            "stars": 299
+          },
+          "title": "MutahunterAI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643955121,
+                    "language": "Python",
+                    "last_commit": "2025-03-11T07:18:27Z",
+                    "owner": "metauto-ai",
+                    "repo": "Mindstorm",
+                    "stars": 82
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Natural Language-Based Societies of Mind",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 643955121,
+            "language": "Python",
+            "last_commit": "2025-03-11T07:18:27Z",
+            "owner": "metauto-ai",
+            "repo": "Mindstorm",
+            "stars": 82
+          },
+          "title": "NLSOM"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 676028871,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T09:39:29Z",
+                    "owner": "xlang-ai",
+                    "repo": "OpenAgents",
+                    "stars": 4858
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Multi-agent general purpose platform",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 676028871,
+            "language": "Python",
+            "last_commit": "2024-11-18T09:39:29Z",
+            "owner": "xlang-ai",
+            "repo": "OpenAgents",
+            "stars": 4858
+          },
+          "title": "OpenAgents"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 625084397,
+                    "language": "Python",
+                    "last_commit": "2024-11-28T15:48:29Z",
+                    "owner": "agiresearch",
+                    "repo": "OpenAGI",
+                    "stars": 2283
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "R&D agents platform",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 625084397,
+            "language": "Python",
+            "last_commit": "2024-11-28T15:48:29Z",
+            "owner": "agiresearch",
+            "repo": "OpenAGI",
+            "stars": 2283
+          },
+          "title": "OpenAGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 771302083,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T13:49:16Z",
+                    "owner": "OpenHands",
+                    "repo": "OpenHands",
+                    "stars": 84942
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "OpenDevin: Code Less, Make More",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 771302083,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:49:16Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 84942
+          },
+          "title": "OpenDevin"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 666299222,
+                    "language": "Rust",
+                    "last_commit": "2026-08-20T03:35:38Z",
+                    "owner": "openinterpreter",
+                    "repo": "openinterpreter",
+                    "stars": 68131
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Code interpreter that lets LLMs execute code",
+          "node_type": "group",
+          "title": "Open Interpreter"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631379545,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-21T21:40:31Z",
+                    "owner": "pezzolabs",
+                    "repo": "pezzo",
+                    "stars": 3266
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Development toolkit for prompt management & more",
+          "node_type": "group",
+          "title": "Pezzo"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 635240594,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T13:16:05Z",
+                    "owner": "zylon-ai",
+                    "repo": "private-gpt",
+                    "stars": 57460
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Tool for private interaction with your documents",
+          "node_type": "group",
+          "title": "Private GPT"
+        },
+        {
+          "children": [],
+          "description": "AI agent that helps with nutrition and other goals",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 641081949,
+            "language": "Python",
+            "last_commit": "2024-11-05T16:35:08Z",
+            "owner": "topoteretes",
+            "repo": "PromethAI-Backend",
+            "stars": 189
+          },
+          "title": "PromethAI"
+        },
         {
           "children": [
             {
@@ -11,230 +2697,653 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": true,
-                "id": 576642715,
-                "language": "Rust",
-                "last_commit": "2024-12-04T17:39:21Z",
-                "owner": "BloopAI",
-                "repo": "bloop",
-                "stars": 9499
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Bloop apps",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 576642715,
-                "language": "Rust",
-                "last_commit": "2024-12-04T17:39:21Z",
-                "owner": "BloopAI",
-                "repo": "bloop",
-                "stars": 9499
+                "archived": false,
+                "id": 639499319,
+                "language": "TypeScript",
+                "last_commit": "2024-04-12T13:38:37Z",
+                "owner": "eylonmiz",
+                "repo": "react-agent",
+                "stars": 1655
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Links"
-        }
-      ],
-      "title": "Bloop"
-    },
-    {
-      "description": "Communicative agents for software development",
-      "items": [
+        },
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "Local demo",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 714143245,
+                    "language": "Python",
+                    "last_commit": "2025-09-19T19:31:39Z",
+                    "owner": "OthersideAI",
+                    "repo": "self-operating-computer",
+                    "stars": 10293
+                  }
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 683892956,
-                "language": "Python",
-                "last_commit": "2026-07-24T08:01:27Z",
-                "owner": "OpenBMB",
-                "repo": "ChatDev",
-                "stars": 34107
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GitHub",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 683892956,
-                "language": "Python",
-                "last_commit": "2026-07-24T08:01:27Z",
-                "owner": "OpenBMB",
-                "repo": "ChatDev",
-                "stars": 34107
-              }
+              "node_type": "group",
+              "title": "Links"
             }
           ],
-          "description": null,
+          "description": "Let multimodal models operate a computer",
           "node_type": "group",
-          "title": "Links"
-        }
-      ],
-      "title": "ChatDev"
-    },
-    {
-      "description": "Framework for orchestrating role-playing agents",
-      "items": [
+          "title": "Self-operating computer"
+        },
+        {
+          "children": [],
+          "description": "Your own junior AI developer, deployed via E2B UI",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 640161038,
+            "language": "Python",
+            "last_commit": "2024-04-07T07:11:03Z",
+            "owner": "smol-ai",
+            "repo": "developer",
+            "stars": 12184
+          },
+          "title": "Smol developer"
+        },
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "GitHub",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 724355244,
+                    "language": "TypeScript",
+                    "last_commit": "2024-02-18T21:01:03Z",
+                    "owner": "stackwiseai",
+                    "repo": "stackwise",
+                    "stars": 186
+                  }
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 710601088,
-                "language": "Python",
-                "last_commit": "2026-08-23T19:00:08Z",
-                "owner": "crewAIInc",
-                "repo": "crewAI",
-                "stars": 57522
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Crew AI Wiki with examples and guides",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 710601088,
-                "language": "Python",
-                "last_commit": "2026-08-23T19:00:08Z",
-                "owner": "crewAIInc",
-                "repo": "crewAI",
-                "stars": 57522
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Docs",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 710601088,
-                "language": "Python",
-                "last_commit": "2026-08-23T19:00:08Z",
-                "owner": "crewAIInc",
-                "repo": "crewAI",
-                "stars": 57522
-              }
+              "node_type": "group",
+              "title": "Links"
             }
           ],
-          "description": null,
-          "node_type": "group",
-          "title": "Links"
-        }
-      ],
-      "title": "CrewAI"
-    },
-    {
-      "description": "MutahunterAI: Accelerate developer productivity and code security with our open-source AI",
-      "items": [
+          "description": "VSCode extension that writes nodejs functions",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 724355244,
+            "language": "TypeScript",
+            "last_commit": "2024-02-18T21:01:03Z",
+            "owner": "stackwiseai",
+            "repo": "stackwise",
+            "stars": 186
+          },
+          "title": "Stackwise"
+        },
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "Documentation",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 639096757,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T11:44:12Z",
+                    "owner": "superagent-ai",
+                    "repo": "superagent",
+                    "stars": 6717
+                  }
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 818429323,
-                "language": "Python",
-                "last_commit": "2025-04-17T15:46:03Z",
-                "owner": "codeintegrity-ai",
-                "repo": "mutahunter",
-                "stars": 299
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GitHub",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 818429323,
-                "language": "Python",
-                "last_commit": "2025-04-17T15:46:03Z",
-                "owner": "codeintegrity-ai",
-                "repo": "mutahunter",
-                "stars": 299
-              }
+              "node_type": "group",
+              "title": "Links"
             }
           ],
-          "description": null,
+          "description": "Tool that allows creating agents without coding",
           "node_type": "group",
-          "title": "Links"
-        }
-      ],
-      "title": "MutahunterAI"
-    },
-    {
-      "description": "Capable of designing, coding and debugging tools",
-      "items": [
+          "title": "Superagent"
+        },
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "GitHub Repository",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 698598590,
+                    "language": "Python",
+                    "last_commit": "2023-11-08T08:02:01Z",
+                    "owner": "CR-Gjx",
+                    "repo": "Suspicion-Agent",
+                    "stars": 167
+                  }
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 624183701,
-                "language": "Python",
-                "last_commit": "2026-06-05T20:25:58Z",
-                "owner": "genlayerlabs",
-                "repo": "yeagerai-agent",
-                "stars": 592
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "License: MIT",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 624183701,
-                "language": "Python",
-                "last_commit": "2026-06-05T20:25:58Z",
-                "owner": "genlayerlabs",
-                "repo": "yeagerai-agent",
-                "stars": 592
-              }
+              "node_type": "group",
+              "title": "Links"
             }
           ],
-          "description": null,
+          "description": "Paper on imperfect information games",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 698598590,
+            "language": "Python",
+            "last_commit": "2023-11-08T08:02:01Z",
+            "owner": "CR-Gjx",
+            "repo": "Suspicion-Agent",
+            "stars": 167
+          },
+          "title": "Suspicion Agent"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 780737106,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T22:33:19Z",
+                    "owner": "SWE-agent",
+                    "repo": "SWE-agent",
+                    "stars": 20119
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Open-source Devin alternative",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 780737106,
+            "language": "Python",
+            "last_commit": "2026-08-17T22:33:19Z",
+            "owner": "SWE-agent",
+            "repo": "SWE-agent",
+            "stars": 20119
+          },
+          "title": "SWE Agent"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 619909200,
+                    "language": "TypeScript",
+                    "last_commit": "2025-01-15T23:52:14Z",
+                    "owner": "TaxyAI",
+                    "repo": "browser-extension",
+                    "stars": 1275
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Taxy AI is a full browser automation",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 619909200,
+            "language": "TypeScript",
+            "last_commit": "2025-01-15T23:52:14Z",
+            "owner": "TaxyAI",
+            "repo": "browser-extension",
+            "stars": 1275
+          },
+          "title": "Taxy AI"
+        },
+        {
+          "children": [],
+          "description": "BabyAGI-inspired agent, can recall infinite memory",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 626670117,
+            "language": "Python",
+            "last_commit": "2023-05-03T10:16:19Z",
+            "owner": "seanpixel",
+            "repo": "Teenage-AGI",
+            "stars": 909
+          },
+          "title": "Teenage AGI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 740316987,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:00:27Z",
+                    "owner": "microsoft",
+                    "repo": "UFO",
+                    "stars": 9546
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "A UI-Focused agent on Windows OS",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 740316987,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:00:27Z",
+            "owner": "microsoft",
+            "repo": "UFO",
+            "stars": 9546
+          },
+          "title": "UFO"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 640317662,
+                    "language": "Python",
+                    "last_commit": "2026-02-02T14:14:20Z",
+                    "owner": "vanna-ai",
+                    "repo": "vanna",
+                    "stars": 23820
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Python-based AI SQL agent trained on your schema",
           "node_type": "group",
-          "title": "Links"
+          "title": "Vanna.AI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 645471238,
+                    "language": "JavaScript",
+                    "last_commit": "2024-04-03T18:51:36Z",
+                    "owner": "MineDojo",
+                    "repo": "Voyager",
+                    "stars": 7157
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "LLM-powered lifelong learning agent in Minecraft",
+          "node_type": "group",
+          "title": "Voyager"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 640035343,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T23:53:00Z",
+                    "owner": "Markeljan",
+                    "repo": "web3gpt",
+                    "stars": 116
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Write & deploy smart contracts to EVM blockchains",
+          "node_type": "group",
+          "title": "Web3 GPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Languages",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Javascript version (being developed)",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 394668563,
+                        "language": "JavaScript",
+                        "last_commit": "2021-08-19T19:39:52Z",
+                        "owner": "TheoLvs",
+                        "repo": "westworldjs",
+                        "stars": 1
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": "A- multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting",
+              "node_type": "group",
+              "title": "Description"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 252131436,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-01-09T08:16:36Z",
+                    "owner": "TheoLvs",
+                    "repo": "westworld",
+                    "stars": 59
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "A multi-agent environment simulation library",
+          "node_type": "group",
+          "title": "“Westworld” simulation"
+        },
+        {
+          "children": [],
+          "description": "GPT agent framework for invoking APIs",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 635335208,
+            "language": "TypeScript",
+            "last_commit": "2023-06-23T21:58:43Z",
+            "owner": "team-openpm",
+            "repo": "workgpt",
+            "stars": 731
+          },
+          "title": "WorkGPT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 771350543,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T11:25:17Z",
+                    "owner": "Canner",
+                    "repo": "WrenAI",
+                    "stars": 17376
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Natural Language Interface to Your Databases",
+          "node_type": "group",
+          "title": "Wren"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub Repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 705460972,
+                    "language": "Python",
+                    "last_commit": "2026-07-31T03:30:54Z",
+                    "owner": "OpenBMB",
+                    "repo": "XAgent",
+                    "stars": 8543
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Experimental LLM agent that solves various tasks",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 705460972,
+            "language": "Python",
+            "last_commit": "2026-07-31T03:30:54Z",
+            "owner": "OpenBMB",
+            "repo": "XAgent",
+            "stars": 8543
+          },
+          "title": "XAgent"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub Repository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624183701,
+                    "language": "Python",
+                    "last_commit": "2026-06-05T20:25:58Z",
+                    "owner": "genlayerlabs",
+                    "repo": "yeagerai-agent",
+                    "stars": 592
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "License: MIT",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 624183701,
+                    "language": "Python",
+                    "last_commit": "2026-06-05T20:25:58Z",
+                    "owner": "genlayerlabs",
+                    "repo": "yeagerai-agent",
+                    "stars": 592
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Capable of designing, coding and debugging tools",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 624183701,
+            "language": "Python",
+            "last_commit": "2026-06-05T20:25:58Z",
+            "owner": "genlayerlabs",
+            "repo": "yeagerai-agent",
+            "stars": 592
+          },
+          "title": "yAgents"
+        },
+        {
+          "children": [],
+          "description": "Swift implementation of BabyAGI",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 620815245,
+            "language": "Swift",
+            "last_commit": "2023-04-17T12:33:58Z",
+            "owner": "pj4533",
+            "repo": "yourgoal",
+            "stars": 53
+          },
+          "title": "Yourgoal"
         }
       ],
-      "title": "yAgents"
+      "title": "Overview"
     },
     {
       "description": null,
       "items": [
         {
-          "children": [],
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub (Issue Only)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 612781022,
+                    "language": null,
+                    "last_commit": "2026-05-12T15:25:06Z",
+                    "owner": "cursor",
+                    "repo": "cursor",
+                    "stars": 33164
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "AI-powered Code Editor with VSCode-like UI",
+          "node_type": "group",
+          "title": "Cursor"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 623737874,
+                    "language": "Python",
+                    "last_commit": "2025-05-14T03:06:35Z",
+                    "owner": "blob42",
+                    "repo": "Instrukt",
+                    "stars": 330
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
           "description": "Terminal env for interacting with with AI agents",
           "node_type": "item",
           "repo_info": {
@@ -247,13 +3356,42 @@
             "stars": 330
           },
           "title": "Instrukt"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 581038081,
+                    "language": "JavaScript",
+                    "last_commit": "2023-06-24T14:35:31Z",
+                    "owner": "proficientai",
+                    "repo": "js",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Links"
+            }
+          ],
+          "description": "Interaction APIs and SDKs for building AI agents",
+          "node_type": "group",
+          "title": "Proficient AI"
         }
       ],
       "title": "Closed-source projects and companies"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:02:08.780Z",
+    "last_updated": "2026-08-24T13:49:32.408Z",
     "original_repository": "e2b-dev/awesome-ai-agents",
     "original_repository_id": 655459367,
     "original_repository_sha": "9596ab1e69fbbb6c95291141c8dab5c181083216",
