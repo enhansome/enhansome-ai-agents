@@ -50,14 +50,14 @@ We structured the list into two parts:
 
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents?utm_source=github\&utm_medium=referral\&utm_campaign=readme\&utm_content=awesome-ai-agents). 🌟
 
-The list is done according to our best knowledge, although definitely not comprehensive. Check out also [the Awesome List of SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents) ⭐ 1,225 | 🐛 273 | 📅 2026-07-09.
+The list is done according to our best knowledge, although definitely not comprehensive. Check out also [the Awesome List of SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents) ⭐ 1,226 | 🐛 274 | 📅 2026-07-09.
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
 
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
-For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents) ⭐ 1,225 | 🐛 273 | 📅 2026-07-09. This list is only for AI assistants and agents.
+For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents) ⭐ 1,226 | 🐛 274 | 📅 2026-07-09. This list is only for AI assistants and agents.
 
 <!---
 ## Who's behind this?
@@ -67,13 +67,13 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 ## Check out E2B - Code Interpreting for AI apps
 
 * Check out [Code Interpreter SDK](https://docs.e2b.dev/?utm_source=github\&utm_medium=referral\&utm_campaign=readme\&utm_content=awesome-ai-agents)
-* Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook) ⭐ 1,404 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-16
+* Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook) ⭐ 1,404 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-23
 * Read our [docs](https://docs.e2b.dev/?utm_source=github\&utm_medium=referral\&utm_campaign=readme\&utm_content=awesome-ai-agents)
 * Contact us at <hello@e2b.dev> or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
 # Awesome Open-source projects with stars
 
-## [Adala](https://github.com/HumanSignal/Adala) ⭐ 1,638 | 🐛 175 | 🌐 Python | 📅 2026-09-19
+## [Adala](https://github.com/HumanSignal/Adala) ⭐ 1,637 | 🐛 175 | 🌐 Python | 📅 2026-09-19
 
 Adala: Autonomous Data (Labeling) Agent framework
 
@@ -96,7 +96,7 @@ General purpose, Build your own, Multi-agent
 
 ### Links
 
-* [GitHub](https://github.com/HumanSignal/Adala) ⭐ 1,638 | 🐛 175 | 🌐 Python | 📅 2026-09-19
+* [GitHub](https://github.com/HumanSignal/Adala) ⭐ 1,637 | 🐛 175 | 🌐 Python | 📅 2026-09-19
 * [Documentation](https://humansignal.github.io/Adala/)
 * [Discord](https://discord.gg/QBtgTbXTgU)
 
@@ -227,7 +227,7 @@ General purpose
 
 </details>
 
-## [Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,966 | 🐛 50 | 🌐 Python | 📅 2024-09-26
+## [Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,967 | 🐛 50 | 🌐 Python | 📅 2024-09-26
 
 Library/framework for building language agents
 
@@ -241,7 +241,7 @@ General purpose, Build your own, Multi-agent
 
 ### Description
 
-* **Tool Usage**: Language agents in the library can use any external tools via  [function-calling](https://platform.openai.com/docs/guides/gpt/function-calling)  and developers can add customized tools/APIs  [here](https://github.com/aiwaves-cn/agents/blob/master/src/agents/Component/ToolComponent.py) ⭐ 5,966 | 🐛 50 | 🌐 Python | 📅 2024-09-26.
+* **Tool Usage**: Language agents in the library can use any external tools via  [function-calling](https://platform.openai.com/docs/guides/gpt/function-calling)  and developers can add customized tools/APIs  [here](https://github.com/aiwaves-cn/agents/blob/master/src/agents/Component/ToolComponent.py) ⭐ 5,967 | 🐛 50 | 🌐 Python | 📅 2024-09-26.
 * **Long-short Term Memory**: Language agents in the library are equipped with both long-term memory implemented via VectorDB + Semantic Search and short-term memory (working memory) maintained and updated by an LLM.
 * **Web Navigation**: Language agents in the library can use search engines to navigate the web and get useful information.
 * **Multi-agent Communication**: In addition to single language agents, the library supports building multi-agent systems in which language agents can communicate with other language agents and the environment. Different from most existing frameworks for multi-agent systems that use pre-defined rules to control the order for agents' action,  **Agents**  includes a  *controller*  function that dynamically decides which agent will perform the next action using an LLM by considering the previous actions, the environment, and the target of the current states. This makes multi-agent communication more flexible.
@@ -250,7 +250,7 @@ General purpose, Build your own, Multi-agent
 
 ### Links
 
-* [GitHub Repository](https://github.com/aiwaves-cn/agents) ⭐ 5,966 | 🐛 50 | 🌐 Python | 📅 2024-09-26
+* [GitHub Repository](https://github.com/aiwaves-cn/agents) ⭐ 5,967 | 🐛 50 | 🌐 Python | 📅 2024-09-26
 * Author: [AIWaves Inc.](https:github.com/aiwaves-cn)
 * [Paper](https://arxiv.org/pdf/2309.07870.pdf)
 * [Documentation](https://agents-readthedocsio.readthedocs.io/en/latest/index.html)
@@ -258,7 +258,7 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
-## [AgentVerse](https://github.com/OpenBMB/AgentVerse) ⭐ 5,138 | 🐛 36 | 🌐 JavaScript | 📅 2024-09-09
+## [AgentVerse](https://github.com/OpenBMB/AgentVerse) ⭐ 5,141 | 🐛 36 | 🌐 JavaScript | 📅 2024-09-09
 
 Platform for task-solving & simulation agents
 
@@ -284,7 +284,7 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
-## [AI Legion](https://github.com/eumemic/ai-legion) ⭐ 1,436 | 🐛 9 | 🌐 TypeScript | 📅 2025-05-27
+## [AI Legion](https://github.com/eumemic/ai-legion) ⭐ 1,435 | 🐛 9 | 🌐 TypeScript | 📅 2025-05-27
 
 Multi-agent TS platform, similar to AutoGPT
 
@@ -304,14 +304,14 @@ Multi-agent, Build-your-own
 
 ### Links
 
-* [GitHub](https://github.com/eumemic/ai-legion) ⭐ 1,436 | 🐛 9 | 🌐 TypeScript | 📅 2025-05-27
+* [GitHub](https://github.com/eumemic/ai-legion) ⭐ 1,435 | 🐛 9 | 🌐 TypeScript | 📅 2025-05-27
 * Author: [eumemic](https://github.com/eumemic)
 * [Website](https://gpt3demo.com/apps/ai-legion)
 * [Twitter](https://twitter.com/dysmemic)
 
 </details>
 
-## [Aider](https://github.com/paul-gauthier/aider) ⭐ 49,122 | 🐛 1,884 | 🌐 Python | 📅 2026-05-22
+## [Aider](https://github.com/paul-gauthier/aider) ⭐ 49,137 | 🐛 1,891 | 🌐 Python | 📅 2026-05-22
 
 Use command line to edit code in your local repo
 
@@ -361,7 +361,7 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
-## [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,119 | 🐛 1,093 | 🌐 Python | 📅 2026-04-15
+## [AutoGen](https://github.com/microsoft/autogen) ⭐ 61,130 | 🐛 1,098 | 🌐 Python | 📅 2026-04-15
 
 Multi-agent framework with diversity of agents
 
@@ -428,7 +428,7 @@ General purpose
 
 ### Links
 
-* [GitHub](https://github.com/Significant-Gravitas/Auto-GPT/?utm_source=awesome-ai-agents) ⭐ 187,503 | 🐛 551 | 🌐 Python | 📅 2026-09-23
+* [GitHub](https://github.com/Significant-Gravitas/Auto-GPT/?utm_source=awesome-ai-agents) ⭐ 187,514 | 🐛 553 | 🌐 Python | 📅 2026-09-24
 * [Twitter](https://twitter.com/Auto_GPT/?utm_source=awesome-ai-agents)
 * [Facebook](https://www.facebook.com/groups/1330282574368178/?utm_source=awesome-ai-agents)
 * [Linkedin](https://www.linkedin.com/company/autogpt/?utm_source=awesome-ai-agents)
@@ -819,7 +819,7 @@ General purpose, Productivity
 
 </details>
 
-## [Blinky](https://github.com/seahyinghang8/blinky) ⭐ 90 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-03
+## [Blinky](https://github.com/seahyinghang8/blinky) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-03
 
 An open-source AI debugging agent for VSCode
 
@@ -838,7 +838,7 @@ Coding, Debugging
 
 ### Links
 
-* [GitHub](https://github.com/seahyinghang8/blinky) ⭐ 90 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-03
+* [GitHub](https://github.com/seahyinghang8/blinky) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-03
 * [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=blinky.blinky)
 * [Discord](https://discord.gg/d3AUNHDb)
 
@@ -952,18 +952,18 @@ Productivity
 
 ### Description
 
-* [GitHub](https://github.com/calcom/cal.com/tree/main/apps/ai) ⭐ 48,617 | 🐛 1,427 | 🌐 TypeScript | 📅 2026-09-20
+* [GitHub](https://github.com/calcom/cal.com/tree/main/apps/ai) ⭐ 48,631 | 🐛 1,429 | 🌐 TypeScript | 📅 2026-09-20
 * Cal.ai can book meetings, summarize your week, and find time with others based on natural language.
 * Responds flexibly to unseen tasks eg. "move my second-last meeting to tomorrow morning".
 * Uses GPT-4 and LangChain Agent Executor under the hood.
 
 ### Links
 
-* Authors: [Cal.com core team](https://github.com/calcom/cal.com/graphs/contributors) ⭐ 48,617 | 🐛 1,427 | 🌐 TypeScript | 📅 2026-09-20, [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
+* Authors: [Cal.com core team](https://github.com/calcom/cal.com/graphs/contributors) ⭐ 48,631 | 🐛 1,429 | 🌐 TypeScript | 📅 2026-09-20, [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
 
 </details>
 
-## [CAMEL](https://github.com/camel-ai/camel) ⭐ 17,757 | 🐛 501 | 🌐 Python | 📅 2026-09-20
+## [CAMEL](https://github.com/camel-ai/camel) ⭐ 17,763 | 🐛 510 | 🌐 Python | 📅 2026-09-20
 
 Architecture for “Mind” Exploration of agents
 
@@ -986,7 +986,7 @@ General purpose
 
 ### Links
 
-* [GitHub](https://github.com/camel-ai/camel) ⭐ 17,757 | 🐛 501 | 🌐 Python | 📅 2026-09-20
+* [GitHub](https://github.com/camel-ai/camel) ⭐ 17,763 | 🐛 510 | 🌐 Python | 📅 2026-09-20
 * [Web](https://www.camel-ai.org/)
 * [Paper - CAMEL: Communicative Agents for “Mind”
   Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
@@ -1027,7 +1027,7 @@ Design, Build-your-own, SDK for AI apps, Multi-agent
 
 </details>
 
-## [ChatDev](https://github.com/OpenBMB/ChatDev) ⭐ 34,369 | 🐛 74 | 🌐 Python | 📅 2026-07-24
+## [ChatDev](https://github.com/OpenBMB/ChatDev) ⭐ 34,379 | 🐛 75 | 🌐 Python | 📅 2026-07-24
 
 Communicative agents for software development
 
@@ -1049,8 +1049,8 @@ Coding, Multi-agent
 
 ### Links
 
-* [Local demo](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#local-demo) ⭐ 34,369 | 🐛 74 | 🌐 Python | 📅 2026-07-24
-* [GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 34,369 | 🐛 74 | 🌐 Python | 📅 2026-07-24
+* [Local demo](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#local-demo) ⭐ 34,379 | 🐛 75 | 🌐 Python | 📅 2026-07-24
+* [GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 34,379 | 🐛 75 | 🌐 Python | 📅 2026-07-24
 * [Paper - ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)
 
 </details>
@@ -1198,14 +1198,14 @@ Coding
 
 ### Links
 
-* [GitHub](https://github.com/continuedev/continue) ⭐ 35,997 | 🐛 975 | 🌐 TypeScript | 📅 2026-09-22
+* [GitHub](https://github.com/continuedev/continue) ⭐ 36,008 | 🐛 975 | 🌐 TypeScript | 📅 2026-09-22
 * [Website](https://continue.dev/)
 * [Documentation](https://continue.dev/docs/intro)
 * [Twitter](https://twitter.com/continuedev)
 
 </details>
 
-## [CrewAI](https://github.com/joaomdmoura/crewai) ⭐ 58,928 | 🐛 449 | 🌐 Python | 📅 2026-09-23
+## [CrewAI](https://github.com/joaomdmoura/crewai) ⭐ 58,958 | 🐛 463 | 🌐 Python | 📅 2026-09-23
 
 Framework for orchestrating role-playing agents
 
@@ -1226,9 +1226,9 @@ Build-your-own, SDK for agents, Multi-agent
 
 ### Links
 
-* [GitHub](https://github.com/joaomdmoura/crewai) ⭐ 58,928 | 🐛 449 | 🌐 Python | 📅 2026-09-23
-* [Crew AI Wiki with examples and guides](https://github.com/joaomdmoura/CrewAI/wiki) ⭐ 58,928 | 🐛 449 | 🌐 Python | 📅 2026-09-23
-* [Docs](https://github.com/joaomdmoura/CrewAI/wiki) ⭐ 58,928 | 🐛 449 | 🌐 Python | 📅 2026-09-23
+* [GitHub](https://github.com/joaomdmoura/crewai) ⭐ 58,958 | 🐛 463 | 🌐 Python | 📅 2026-09-23
+* [Crew AI Wiki with examples and guides](https://github.com/joaomdmoura/CrewAI/wiki) ⭐ 58,958 | 🐛 463 | 🌐 Python | 📅 2026-09-23
+* [Docs](https://github.com/joaomdmoura/CrewAI/wiki) ⭐ 58,958 | 🐛 463 | 🌐 Python | 📅 2026-09-23
 * [Founder's X](https://twitter.com/joaomdmoura)
 * [Blog post: How to use Crew AI](https://crewai.net/posts/how-to-use-crew-ai)
 * [Discord](https://discord.com/invite/X4JWnZnxPb)
@@ -1314,7 +1314,7 @@ Build-your-own
 
 </details>
 
-## [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,909 | 🐛 10 | 🌐 Python | 📅 2026-04-01
+## [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,908 | 🐛 10 | 🌐 Python | 📅 2026-04-01
 
 Generates demo of a new app (of any purpose)
 
@@ -1337,7 +1337,7 @@ Build-your-own, General purpose
 
 ### Links
 
-* [Github](https://github.com/melih-unsal/DemoGPT) ⭐ 1,909 | 🐛 10 | 🌐 Python | 📅 2026-04-01
+* [Github](https://github.com/melih-unsal/DemoGPT) ⭐ 1,908 | 🐛 10 | 🌐 Python | 📅 2026-04-01
 * [Website](https://www.demogpt.io/)
 * [Twitter](https://twitter.com/demo_gpt)
 * [Streamlit App](https://demogpt.streamlit.app/)
@@ -1368,7 +1368,7 @@ Coding, Multi-agent
 
 </details>
 
-## [Devika](https://github.com/stitionai/devika) ⭐ 19,564 | 🐛 196 | 🌐 Python | 📅 2025-09-25
+## [Devika](https://github.com/stitionai/devika) ⭐ 19,561 | 🐛 196 | 🌐 Python | 📅 2025-09-25
 
 Agentic AI Software Engineer
 
@@ -1387,7 +1387,7 @@ Coding, general purpose
 
 ### Links
 
-* [GitHub](https://github.com/stitionai/devika) ⭐ 19,564 | 🐛 196 | 🌐 Python | 📅 2025-09-25
+* [GitHub](https://github.com/stitionai/devika) ⭐ 19,561 | 🐛 196 | 🌐 Python | 📅 2025-09-25
 
 </details>
 
@@ -1446,7 +1446,7 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
-## [dotagent](https://github.com/dot-agent/dotagent) ⭐ 2,349 | 🐛 23 | 🌐 Python | 📅 2024-05-01
+## [dotagent](https://github.com/dot-agent/dotagent) ⭐ 2,348 | 🐛 23 | 🌐 Python | 📅 2024-05-01
 
 Deploy agents on cloud, PCs, or mobile devices
 
@@ -1776,7 +1776,7 @@ GOT Migrate easily migrates your codebase from one framework or language to anot
 
 </details>
 
-## [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,667 | 🐛 252 | 🌐 Python | 📅 2026-06-18
+## [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,665 | 🐛 252 | 🌐 Python | 📅 2026-06-18
 
 Code the entire scalable app from scratch
 
@@ -1798,12 +1798,12 @@ GPT Pilot is an AI agent that codes the entire app as you oversee the code being
 
 ### Links
 
-* [GitHub](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,667 | 🐛 252 | 🌐 Python | 📅 2026-06-18
+* [GitHub](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,665 | 🐛 252 | 🌐 Python | 📅 2026-06-18
 * [Discord](https://discord.com/invite/HaqXugmxr9)
 
 </details>
 
-## [GPT Researcher](https://github.com/assafelovic/gpt-researcher) ⭐ 29,578 | 🐛 105 | 🌐 Python | 📅 2026-08-27
+## [GPT Researcher](https://github.com/assafelovic/gpt-researcher) ⭐ 29,594 | 🐛 108 | 🌐 Python | 📅 2026-08-27
 
 Agent that researches entire internet on any topic
 
@@ -1881,7 +1881,7 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 ### Links
 
-* [GitHub](https://github.com/metauto-ai/GPTSwarm) ⭐ 1,046 | 🐛 4 | 🌐 Python | 📅 2026-02-05
+* [GitHub](https://github.com/metauto-ai/GPTSwarm) ⭐ 1,047 | 🐛 4 | 🌐 Python | 📅 2026-02-05
 * [Web](https://gptswarm.org/)
 * [Founder's X (Twitter)](https://twitter.com/MingchenZhuge)
 
@@ -1923,7 +1923,7 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 </details>
 
-## [JARVIS](https://github.com/microsoft/JARVIS) ⭐ 25,323 | 🐛 4,123 | 🌐 Python | 📅 2025-07-29
+## [JARVIS](https://github.com/microsoft/JARVIS) ⭐ 25,323 | 🐛 4,125 | 🌐 Python | 📅 2025-07-29
 
 System that connects LLMs with the ML community
 
@@ -1950,7 +1950,7 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
-## [Langroid](https://github.com/langroid/langroid) ⭐ 4,104 | 🐛 53 | 🌐 Python | 📅 2026-09-23
+## [Langroid](https://github.com/langroid/langroid) ⭐ 4,104 | 🐛 54 | 🌐 Python | 📅 2026-09-23
 
 Multi-agent framework for building LLM apps
 
@@ -2077,7 +2077,7 @@ Build-your-own, no-code, web UI
 
 </details>
 
-## [Local GPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,200 | 🐛 22 | 🌐 Python | 📅 2026-08-26
+## [Local GPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,198 | 🐛 22 | 🌐 Python | 📅 2026-08-26
 
 Chat with documents without compromising privacy
 
@@ -2104,7 +2104,7 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 
 ### Links
 
-* [GitHub](https://github.com/PromtEngineer/localGPT) ⭐ 22,200 | 🐛 22 | 🌐 Python | 📅 2026-08-26
+* [GitHub](https://github.com/PromtEngineer/localGPT) ⭐ 22,198 | 🐛 22 | 🌐 Python | 📅 2026-08-26
 * [Subreddit](https://www.reddit.com/r/LocalGPT/)
 * [YouTube - LocalGPT: OFFLINE CHAT FOR YOUR FILES \[Installation & Code Walkthrough\]](https://www.youtube.com/watch?v=MlyoObdIHyo\&ab_channel=PromptEngineering)
 
@@ -2229,7 +2229,7 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 ### Links
 
-* [GitHub](https://github.com/Oneirocom/Magick) ⭐ 848 | 🐛 32 | 🌐 TypeScript | 📅 2025-06-24
+* [GitHub](https://github.com/Oneirocom/Magick) ⭐ 849 | 🐛 32 | 🌐 TypeScript | 📅 2025-06-24
 * [Web](https://www.magickml.com/)
 * [X](https://twitter.com/magickml)
 * [Discord](https://discord.com/invite/7Xx5DmbJCe)
@@ -2239,7 +2239,7 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
-## [MemFree](https://github.com/memfreeme/memfree) ⭐ 1,509 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-06
+## [MemFree](https://github.com/memfreeme/memfree) ⭐ 1,510 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-06
 
 Open Source Hybrid AI Search Engine
 
@@ -2271,7 +2271,7 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 
 </details>
 
-## [MemGPT](https://github.com/cpacker/MemGPT) ⭐ 24,851 | 🐛 0 | 📅 2026-09-10
+## [MemGPT](https://github.com/cpacker/MemGPT) ⭐ 24,864 | 🐛 0 | 📅 2026-09-10
 
 Memory management system, providing context to LLM
 
@@ -2324,7 +2324,7 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 </details>
 
-## [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 70,566 | 🐛 137 | 🌐 Python | 📅 2026-01-21
+## [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 70,578 | 🐛 137 | 🌐 Python | 📅 2026-01-21
 
 Agent framework returning Design, Tasks, or Repo
 
@@ -2349,14 +2349,14 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 ### Links
 
-* [GitHub](https://github.com/geekan/MetaGPT) ⭐ 70,566 | 🐛 137 | 🌐 Python | 📅 2026-01-21
+* [GitHub](https://github.com/geekan/MetaGPT) ⭐ 70,578 | 🐛 137 | 🌐 Python | 📅 2026-01-21
 * [Discord](https://discord.com/invite/4WdszVjv)
 * [Twitter](https://twitter.com/DeepWisdom2019)
 * [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 
 </details>
 
-## [Mini AGI](https://github.com/muellerberndt/mini-agi) ⭐ 2,899 | 🐛 10 | 🌐 Python | 📅 2023-06-14
+## [Mini AGI](https://github.com/muellerberndt/mini-agi) ⭐ 2,903 | 🐛 10 | 🌐 Python | 📅 2023-06-14
 
 General-purpose agent based on GPT-3.5 / GPT-4
 
@@ -2378,7 +2378,7 @@ General purpose
 
 ### Links
 
-* [GitHub](https://github.com/muellerberndt/mini-agi) ⭐ 2,899 | 🐛 10 | 🌐 Python | 📅 2023-06-14
+* [GitHub](https://github.com/muellerberndt/mini-agi) ⭐ 2,903 | 🐛 10 | 🌐 Python | 📅 2023-06-14
 
 </details>
 
@@ -2410,7 +2410,7 @@ Multiagent Debate is an implementation of the paper "Improving Factuality and Re
 
 </details>
 
-## [Multi GPT](https://github.com/rumpfmax/Multi-GPT) ⭐ 565 | 🐛 5 | 🌐 Python | 📅 2023-10-10
+## [Multi GPT](https://github.com/rumpfmax/Multi-GPT) ⭐ 564 | 🐛 5 | 🌐 Python | 📅 2023-10-10
 
 Experimental multi-agent system
 
@@ -2501,7 +2501,7 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
-## [OpenAgents](https://github.com/xlang-ai/OpenAgents) ⭐ 4,862 | 🐛 15 | 🌐 Python | 📅 2024-11-18
+## [OpenAgents](https://github.com/xlang-ai/OpenAgents) ⭐ 4,863 | 🐛 15 | 🌐 Python | 📅 2024-11-18
 
 Multi-agent general purpose platform
 
@@ -2531,7 +2531,7 @@ OpenAgents is an Open Platform for Language Agents in the Wild, ChatGPT Plus Rep
 
 ### Links
 
-* [GitHub](https://github.com/xlang-ai/OpenAgents) ⭐ 4,862 | 🐛 15 | 🌐 Python | 📅 2024-11-18
+* [GitHub](https://github.com/xlang-ai/OpenAgents) ⭐ 4,863 | 🐛 15 | 🌐 Python | 📅 2024-11-18
 * [Paper](https://arxiv.org/abs/2310.10634)
 * [Demo](https://chat.xlang.ai/)
 
@@ -2568,7 +2568,7 @@ OpenAGI is an open-source AGI R\&D platform that enables agents for both benchma
 
 </details>
 
-## [OpenDevin](https://github.com/OpenDevin/OpenDevin) ⭐ 88,908 | 🐛 881 | 🌐 TypeScript | 📅 2026-09-23
+## [OpenDevin](https://github.com/OpenDevin/OpenDevin) ⭐ 89,010 | 🐛 882 | 🌐 TypeScript | 📅 2026-09-24
 
 OpenDevin: Code Less, Make More
 
@@ -2587,7 +2587,7 @@ Coding, general purpose
 
 ### Links
 
-* [GitHub](https://github.com/OpenDevin/OpenDevin) ⭐ 88,908 | 🐛 881 | 🌐 TypeScript | 📅 2026-09-23
+* [GitHub](https://github.com/OpenDevin/OpenDevin) ⭐ 89,010 | 🐛 882 | 🌐 TypeScript | 📅 2026-09-24
 
 </details>
 
@@ -2613,7 +2613,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 ### Links
 
-* [GitHub](https://github.com/KillianLucas/open-interpreter) ⭐ 68,410 | 🐛 3 | 🌐 Rust | 📅 2026-09-20
+* [GitHub](https://github.com/KillianLucas/open-interpreter) ⭐ 68,418 | 🐛 2 | 🌐 Rust | 📅 2026-09-23
 * [Web](https://openinterpreter.com/)
 * [Author's Twitter](https://twitter.com/hellokillian)
 
@@ -2646,7 +2646,7 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 
 ### Links
 
-* [GitHub](https://github.com/pezzolabs/pezzo) ⭐ 3,275 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-21
+* [GitHub](https://github.com/pezzolabs/pezzo) ⭐ 3,274 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-21
 * [Documentation](https://docs.pezzo.ai/docs/intro.html)
 
 </details>
@@ -2672,7 +2672,7 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 ### Links
 
-* [GitHub](https://github.com/imartinez/privateGPT) ⭐ 57,524 | 🐛 17 | 🌐 Python | 📅 2026-09-22
+* [GitHub](https://github.com/imartinez/privateGPT) ⭐ 57,526 | 🐛 19 | 🌐 Python | 📅 2026-09-22
 
 </details>
 
@@ -2769,12 +2769,12 @@ Productivity, Research
 
 ### Links
 
-* [GitHub](https://github.com/OthersideAI/self-operating-computer) ⭐ 10,297 | 🐛 108 | 🌐 Python | 📅 2025-09-19
+* [GitHub](https://github.com/OthersideAI/self-operating-computer) ⭐ 10,299 | 🐛 108 | 🌐 Python | 📅 2025-09-19
 * [Web](https://www.hyperwriteai.com/self-operating-computer)
 
 </details>
 
-## [Smol developer](https://github.com/smol-ai/developer) ⭐ 12,190 | 🐛 87 | 🌐 Python | 📅 2024-04-07
+## [Smol developer](https://github.com/smol-ai/developer) ⭐ 12,189 | 🐛 87 | 🌐 Python | 📅 2024-04-07
 
 Your own junior AI developer, deployed via E2B UI
 
@@ -2941,7 +2941,7 @@ General purpose
 
 </details>
 
-## [SWE Agent](https://github.com/princeton-nlp/SWE-agent) ⭐ 20,386 | 🐛 120 | 🌐 Python | 📅 2026-09-21
+## [SWE Agent](https://github.com/princeton-nlp/SWE-agent) ⭐ 20,391 | 🐛 119 | 🌐 Python | 📅 2026-09-21
 
 Open-source Devin alternative
 
@@ -2974,7 +2974,7 @@ Coding, general purpose
 
 ### Links
 
-* [GitHub](https://github.com/princeton-nlp/SWE-agent) ⭐ 20,386 | 🐛 120 | 🌐 Python | 📅 2026-09-21
+* [GitHub](https://github.com/princeton-nlp/SWE-agent) ⭐ 20,391 | 🐛 119 | 🌐 Python | 📅 2026-09-21
 * [Web](https://swe-agent.com/)
 * [Demo](https://swe-agent.com/demo)
 * [Discord](https://discord.com/invite/AVEFbBn2rH)
@@ -3010,7 +3010,7 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
-## [Taxy AI](https://github.com/TaxyAI/browser-extension) ⭐ 1,276 | 🐛 38 | 🌐 TypeScript | 📅 2025-01-15
+## [Taxy AI](https://github.com/TaxyAI/browser-extension) ⭐ 1,275 | 🐛 38 | 🌐 TypeScript | 📅 2025-01-15
 
 Taxy AI is a full browser automation
 
@@ -3031,7 +3031,7 @@ General purpose, Productivity
 
 ### Links
 
-* [GitHub](https://github.com/TaxyAI/browser-extension) ⭐ 1,276 | 🐛 38 | 🌐 TypeScript | 📅 2025-01-15
+* [GitHub](https://github.com/TaxyAI/browser-extension) ⭐ 1,275 | 🐛 38 | 🌐 TypeScript | 📅 2025-01-15
 * [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform)
 
 </details>
@@ -3071,7 +3071,7 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
-## [UFO](https://github.com/microsoft/UFO) ⭐ 9,806 | 🐛 85 | 🌐 Python | 📅 2026-09-22
+## [UFO](https://github.com/microsoft/UFO) ⭐ 9,822 | 🐛 86 | 🌐 Python | 📅 2026-09-22
 
 A UI-Focused agent on Windows OS
 
@@ -3090,7 +3090,7 @@ Multi-agent, GUI Agent
 
 ### Links
 
-* [GitHub](https://github.com/microsoft/UFO) ⭐ 9,806 | 🐛 85 | 🌐 Python | 📅 2026-09-22
+* [GitHub](https://github.com/microsoft/UFO) ⭐ 9,822 | 🐛 86 | 🌐 Python | 📅 2026-09-22
 * [Web]()
 * [Paper](https://arxiv.org/abs/2402.07939)
 
@@ -3153,7 +3153,7 @@ General purpose
 
 ### Links
 
-* [GitHub](https://github.com/MineDojo/Voyager) ⭐ 7,223 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03
+* [GitHub](https://github.com/MineDojo/Voyager) ⭐ 7,225 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03
 * [Paper - Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 * [YouTube video](https://www.youtube.com/watch?v=uTg39rNMojo)
 * [Tweet](https://twitter.com/DrJimFan/status/1662115266933972993)
@@ -3286,7 +3286,7 @@ There are four key principles that we followed when developing WrenAI:
 
 ### Links
 
-* [GitHub](https://github.com/Canner/WrenAI) ⭐ 17,724 | 🐛 305 | 🌐 Python | 📅 2026-09-23
+* [GitHub](https://github.com/Canner/WrenAI) ⭐ 17,737 | 🐛 307 | 🌐 Python | 📅 2026-09-24
 * [Web](https://www.getwren.ai/)
 * [X (Twitter)](https://x.com/getwrenai)
 * [Docs](https://docs.getwren.ai/overview/introduction)
@@ -3294,7 +3294,7 @@ There are four key principles that we followed when developing WrenAI:
 
 </details>
 
-## [XAgent](https://github.com/OpenBMB/XAgent) ⭐ 8,549 | 🐛 56 | 🌐 Python | 📅 2026-07-31
+## [XAgent](https://github.com/OpenBMB/XAgent) ⭐ 8,551 | 🐛 56 | 🌐 Python | 📅 2026-07-31
 
 Experimental LLM agent that solves various tasks
 
@@ -3328,7 +3328,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 
 ### Links
 
-* [GitHub Repository](https://github.com/OpenBMB/XAgent) ⭐ 8,549 | 🐛 56 | 🌐 Python | 📅 2026-07-31
+* [GitHub Repository](https://github.com/OpenBMB/XAgent) ⭐ 8,551 | 🐛 56 | 🌐 Python | 📅 2026-07-31
 * [Twitter](https://twitter.com/XAgentTeam)
 * [Discord](https://discord.gg/zncs5aQkWZ)
 * [Youtube Demo](https://www.youtube.com/watch?v=QGkpd-tsFPA)
@@ -4343,7 +4343,7 @@ Cursor is the AI-first Code Editor. Build software faster in an editor designed 
 
 ### Links
 
-* [GitHub (Issue Only)](https://github.com/getcursor/cursor) ⭐ 33,247 | 🐛 3 | 📅 2026-05-12
+* [GitHub (Issue Only)](https://github.com/getcursor/cursor) ⭐ 33,251 | 🐛 3 | 📅 2026-05-12
 * [Website](https://www.cursor.so/)
 * [Discord](https://discord.com/invite/PJEgRywgRy)
 
@@ -6400,4 +6400,4 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
