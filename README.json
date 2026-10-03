@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "HumanSignal/Adala",
-                  "description": null,
+                  "description": "HumanSignal/Adala",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -96,7 +96,7 @@
                 {
                   "node_type": "item",
                   "title": "DataBassGit/AgentForge",
-                  "description": null,
+                  "description": "DataBassGit/AgentForge",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -158,7 +158,7 @@
                 {
                   "node_type": "item",
                   "title": "reworkd/AgentGPT",
-                  "description": null,
+                  "description": "reworkd/AgentGPT",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -171,7 +171,7 @@
                     "open_issues": 219,
                     "owner": "reworkd",
                     "repo": "AgentGPT",
-                    "stars": 36299,
+                    "stars": 36300,
                     "topics": [
                       "agent",
                       "agentgpt",
@@ -209,7 +209,7 @@
                 {
                   "node_type": "item",
                   "title": "jbexta/AgentPilot",
-                  "description": null,
+                  "description": "jbexta/AgentPilot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -222,7 +222,7 @@
                     "open_issues": 3,
                     "owner": "jbexta",
                     "repo": "AgentPilot",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": [
                       "agent",
                       "agi",
@@ -265,7 +265,7 @@
             "open_issues": 3,
             "owner": "jbexta",
             "repo": "AgentPilot",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "agent",
               "agi",
@@ -329,7 +329,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub Repository",
-                  "description": null,
+                  "description": "aiwaves-cn/agents",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -395,7 +395,7 @@
             "open_issues": 40,
             "owner": "OpenBMB",
             "repo": "AgentVerse",
-            "stars": 5151,
+            "stars": 5152,
             "topics": [
               "agent",
               "ai",
@@ -414,7 +414,7 @@
                 {
                   "node_type": "item",
                   "title": "eumemic/ai-legion",
-                  "description": null,
+                  "description": "eumemic/ai-legion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -469,10 +469,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-22T14:02:20Z",
-            "open_issues": 1905,
+            "open_issues": 1908,
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 49324,
+            "stars": 49341,
             "topics": [
               "anthropic",
               "chatgpt",
@@ -499,7 +499,7 @@
                 {
                   "node_type": "item",
                   "title": "myshell-ai/AIlice",
-                  "description": null,
+                  "description": "myshell-ai/AIlice",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -512,7 +512,7 @@
                     "open_issues": 7,
                     "owner": "myshell-ai",
                     "repo": "AIlice",
-                    "stars": 1417,
+                    "stars": 1418,
                     "topics": [
                       "agent",
                       "ai",
@@ -541,7 +541,7 @@
             "open_issues": 7,
             "owner": "myshell-ai",
             "repo": "AIlice",
-            "stars": 1417,
+            "stars": 1418,
             "topics": [
               "agent",
               "ai",
@@ -564,10 +564,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-04-15T11:59:09Z",
-            "open_issues": 1121,
+            "open_issues": 1109,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 61253,
+            "stars": 61249,
             "topics": [
               "agentic",
               "agentic-agi",
@@ -591,7 +591,7 @@
                 {
                   "node_type": "item",
                   "title": "Significant-Gravitas/AutoGPT",
-                  "description": null,
+                  "description": "Significant-Gravitas/AutoGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -600,11 +600,11 @@
                     "id": 614765452,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T05:52:02Z",
-                    "open_issues": 598,
+                    "last_commit": "2026-10-03T04:09:35Z",
+                    "open_issues": 595,
                     "owner": "Significant-Gravitas",
                     "repo": "AutoGPT",
-                    "stars": 187653,
+                    "stars": 187641,
                     "topics": [
                       "agentic-ai",
                       "agents",
@@ -638,7 +638,7 @@
                 {
                   "node_type": "item",
                   "title": "emrgnt-cmplxty/automata",
-                  "description": null,
+                  "description": "emrgnt-cmplxty/automata",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -739,7 +739,7 @@
                 {
                   "node_type": "item",
                   "title": "stepanogil/autonomous-hr-chatbot",
-                  "description": null,
+                  "description": "stepanogil/autonomous-hr-chatbot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -824,7 +824,7 @@
                 {
                   "node_type": "item",
                   "title": "yoheinakajima/babyagi",
-                  "description": null,
+                  "description": "yoheinakajima/babyagi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -859,7 +859,7 @@
                 {
                   "node_type": "item",
                   "title": "yoheinakajima/babyagi",
-                  "description": null,
+                  "description": "yoheinakajima/babyagi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -894,7 +894,7 @@
                 {
                   "node_type": "item",
                   "title": "yoheinakajima/babyagi",
-                  "description": null,
+                  "description": "yoheinakajima/babyagi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -929,7 +929,7 @@
                 {
                   "node_type": "item",
                   "title": "yoheinakajima/babyagi",
-                  "description": null,
+                  "description": "yoheinakajima/babyagi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1046,7 +1046,7 @@
                 {
                   "node_type": "item",
                   "title": "pgalko/BambooAI",
-                  "description": null,
+                  "description": "pgalko/BambooAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1055,11 +1055,11 @@
                     "id": 637253688,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T13:45:09Z",
+                    "last_commit": "2026-10-02T22:08:26Z",
                     "open_issues": 18,
                     "owner": "pgalko",
                     "repo": "BambooAI",
-                    "stars": 791,
+                    "stars": 792,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -1091,11 +1091,11 @@
             "id": 637253688,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:45:09Z",
+            "last_commit": "2026-10-02T22:08:26Z",
             "open_issues": 18,
             "owner": "pgalko",
             "repo": "BambooAI",
-            "stars": 791,
+            "stars": 792,
             "topics": [
               "ai",
               "ai-agents",
@@ -1120,7 +1120,7 @@
                 {
                   "node_type": "item",
                   "title": "erik-megarad/beebot",
-                  "description": null,
+                  "description": "erik-megarad/beebot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1176,7 +1176,7 @@
                 {
                   "node_type": "item",
                   "title": "seahyinghang8/blinky",
-                  "description": null,
+                  "description": "seahyinghang8/blinky",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1226,7 +1226,7 @@
                 {
                   "node_type": "item",
                   "title": "BloopAI/bloop",
-                  "description": null,
+                  "description": "BloopAI/bloop",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1247,7 +1247,7 @@
                 {
                   "node_type": "item",
                   "title": "Bloop apps",
-                  "description": null,
+                  "description": "BloopAI/bloop",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1282,7 +1282,7 @@
                 {
                   "node_type": "item",
                   "title": "Github Repository",
-                  "description": null,
+                  "description": "krohling/bondai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1317,7 +1317,7 @@
                 {
                   "node_type": "item",
                   "title": "xeol-io/bumpgen",
-                  "description": null,
+                  "description": "xeol-io/bumpgen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1383,7 +1383,7 @@
                 {
                   "node_type": "item",
                   "title": "calcom/cal.diy",
-                  "description": null,
+                  "description": "calcom/cal.diy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1393,10 +1393,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-26T07:48:40Z",
-                    "open_issues": 1452,
+                    "open_issues": 1453,
                     "owner": "calcom",
                     "repo": "cal.diy",
-                    "stars": 48805,
+                    "stars": 48832,
                     "topics": [
                       "next-auth",
                       "nextjs",
@@ -1433,10 +1433,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-26T07:48:40Z",
-                    "open_issues": 1452,
+                    "open_issues": 1453,
                     "owner": "calcom",
                     "repo": "cal.diy",
-                    "stars": 48805,
+                    "stars": 48832,
                     "topics": [
                       "next-auth",
                       "nextjs",
@@ -1470,7 +1470,7 @@
                 {
                   "node_type": "item",
                   "title": "camel-ai/camel",
-                  "description": null,
+                  "description": "camel-ai/camel",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1480,10 +1480,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-30T04:46:03Z",
-                    "open_issues": 525,
+                    "open_issues": 527,
                     "owner": "camel-ai",
                     "repo": "camel",
-                    "stars": 17803,
+                    "stars": 17805,
                     "topics": [
                       "agent",
                       "ai-societies",
@@ -1514,10 +1514,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T04:46:03Z",
-            "open_issues": 525,
+            "open_issues": 527,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17803,
+            "stars": 17805,
             "topics": [
               "agent",
               "ai-societies",
@@ -1540,7 +1540,7 @@
                 {
                   "node_type": "item",
                   "title": "Farama-Foundation/ChatArena",
-                  "description": null,
+                  "description": "Farama-Foundation/ChatArena",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1553,7 +1553,7 @@
                     "open_issues": 7,
                     "owner": "Farama-Foundation",
                     "repo": "ChatArena",
-                    "stars": 1565,
+                    "stars": 1563,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1586,7 +1586,7 @@
                 {
                   "node_type": "item",
                   "title": "Local demo",
-                  "description": null,
+                  "description": "OpenBMB/ChatDev",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1599,7 +1599,7 @@
                     "open_issues": 81,
                     "owner": "OpenBMB",
                     "repo": "ChatDev",
-                    "stars": 34431,
+                    "stars": 34435,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:32:58.340Z"
@@ -1607,7 +1607,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenBMB/ChatDev",
-                  "description": null,
+                  "description": "OpenBMB/ChatDev",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1620,7 +1620,7 @@
                     "open_issues": 81,
                     "owner": "OpenBMB",
                     "repo": "ChatDev",
-                    "stars": 34431,
+                    "stars": 34435,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:32:58.340Z"
@@ -1644,7 +1644,7 @@
             "open_issues": 81,
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34431,
+            "stars": 34435,
             "topics": []
           },
           "title": "ChatDev",
@@ -1657,7 +1657,7 @@
                 {
                   "node_type": "item",
                   "title": "ur-whitelab/chemcrow-public",
-                  "description": null,
+                  "description": "ur-whitelab/chemcrow-public",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1670,7 +1670,7 @@
                     "open_issues": 15,
                     "owner": "ur-whitelab",
                     "repo": "chemcrow-public",
-                    "stars": 958,
+                    "stars": 957,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:32:58.340Z"
@@ -1694,7 +1694,7 @@
             "open_issues": 15,
             "owner": "ur-whitelab",
             "repo": "chemcrow-public",
-            "stars": 958,
+            "stars": 957,
             "topics": []
           },
           "title": "ChemCrow",
@@ -1707,7 +1707,7 @@
                 {
                   "node_type": "item",
                   "title": "ennucore/clippinator",
-                  "description": null,
+                  "description": "ennucore/clippinator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1757,7 +1757,7 @@
                 {
                   "node_type": "item",
                   "title": "codefuse-ai/codefuse-chatbot",
-                  "description": null,
+                  "description": "codefuse-ai/codefuse-chatbot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1831,7 +1831,7 @@
                 {
                   "node_type": "item",
                   "title": "ajhous44/cody",
-                  "description": null,
+                  "description": "ajhous44/cody",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1881,7 +1881,7 @@
                 {
                   "node_type": "item",
                   "title": "continuedev/continue",
-                  "description": null,
+                  "description": "continuedev/continue",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1890,11 +1890,11 @@
                     "id": 644686905,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T12:27:58Z",
-                    "open_issues": 837,
+                    "last_commit": "2026-10-02T10:41:02Z",
+                    "open_issues": 824,
                     "owner": "continuedev",
                     "repo": "continue",
-                    "stars": 36084,
+                    "stars": 36090,
                     "topics": [
                       "agent",
                       "ai",
@@ -1922,7 +1922,7 @@
                 {
                   "node_type": "item",
                   "title": "crewAIInc/crewAI",
-                  "description": null,
+                  "description": "crewAIInc/crewAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1931,11 +1931,11 @@
                     "id": 710601088,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T19:47:51Z",
-                    "open_issues": 514,
+                    "last_commit": "2026-10-03T00:03:55Z",
+                    "open_issues": 522,
                     "owner": "crewAIInc",
                     "repo": "crewAI",
-                    "stars": 59277,
+                    "stars": 59293,
                     "topics": [
                       "agents",
                       "ai",
@@ -1949,7 +1949,7 @@
                 {
                   "node_type": "item",
                   "title": "Crew AI Wiki with examples and guides",
-                  "description": null,
+                  "description": "crewAIInc/crewAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1958,11 +1958,11 @@
                     "id": 710601088,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T19:47:51Z",
-                    "open_issues": 514,
+                    "last_commit": "2026-10-03T00:03:55Z",
+                    "open_issues": 522,
                     "owner": "crewAIInc",
                     "repo": "crewAI",
-                    "stars": 59277,
+                    "stars": 59293,
                     "topics": [
                       "agents",
                       "ai",
@@ -1976,7 +1976,7 @@
                 {
                   "node_type": "item",
                   "title": "crewAIInc/crewAI",
-                  "description": null,
+                  "description": "crewAIInc/crewAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1985,11 +1985,11 @@
                     "id": 710601088,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T19:47:51Z",
-                    "open_issues": 514,
+                    "last_commit": "2026-10-03T00:03:55Z",
+                    "open_issues": 522,
                     "owner": "crewAIInc",
                     "repo": "crewAI",
-                    "stars": 59277,
+                    "stars": 59293,
                     "topics": [
                       "agents",
                       "ai",
@@ -2015,11 +2015,11 @@
             "id": 710601088,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:47:51Z",
-            "open_issues": 514,
+            "last_commit": "2026-10-03T00:03:55Z",
+            "open_issues": 522,
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 59277,
+            "stars": 59293,
             "topics": [
               "agents",
               "ai",
@@ -2038,7 +2038,7 @@
                 {
                   "node_type": "item",
                   "title": "Technion-Kishony-lab/data-to-paper",
-                  "description": null,
+                  "description": "Technion-Kishony-lab/data-to-paper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2102,7 +2102,7 @@
                 {
                   "node_type": "item",
                   "title": "gmpetrov/databerry",
-                  "description": null,
+                  "description": "gmpetrov/databerry",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2115,7 +2115,7 @@
                     "open_issues": 166,
                     "owner": "gmpetrov",
                     "repo": "databerry",
-                    "stars": 2966,
+                    "stars": 2965,
                     "topics": [
                       "ai",
                       "aichatbot",
@@ -2149,7 +2149,7 @@
                 {
                   "node_type": "item",
                   "title": "melih-unsal/DemoGPT",
-                  "description": null,
+                  "description": "melih-unsal/DemoGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2260,7 +2260,7 @@
                 {
                   "node_type": "item",
                   "title": "stitionai/devika",
-                  "description": null,
+                  "description": "stitionai/devika",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2310,7 +2310,7 @@
                 {
                   "node_type": "item",
                   "title": "entropy-research/Devon",
-                  "description": null,
+                  "description": "entropy-research/Devon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2323,7 +2323,7 @@
                     "open_issues": 26,
                     "owner": "entropy-research",
                     "repo": "Devon",
-                    "stars": 3455,
+                    "stars": 3454,
                     "topics": [
                       "agent",
                       "agent-based-framework",
@@ -2365,7 +2365,7 @@
             "open_issues": 26,
             "owner": "entropy-research",
             "repo": "Devon",
-            "stars": 3455,
+            "stars": 3454,
             "topics": [
               "agent",
               "agent-based-framework",
@@ -2404,7 +2404,7 @@
             "open_issues": 22,
             "owner": "kuafuai",
             "repo": "DevOpsGPT",
-            "stars": 5967,
+            "stars": 5966,
             "topics": []
           },
           "title": "DevOpsGPT",
@@ -2459,7 +2459,7 @@
                 {
                   "node_type": "item",
                   "title": "eidolon-ai/eidolon",
-                  "description": null,
+                  "description": "eidolon-ai/eidolon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2524,7 +2524,7 @@
                 {
                   "node_type": "item",
                   "title": "agentcoinorg/evo.ninja",
-                  "description": null,
+                  "description": "agentcoinorg/evo.ninja",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2559,7 +2559,7 @@
                 {
                   "node_type": "item",
                   "title": "ag2ai/fastagency",
-                  "description": null,
+                  "description": "ag2ai/fastagency",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2599,7 +2599,7 @@
                 {
                   "node_type": "item",
                   "title": "FlowiseAI/Flowise",
-                  "description": null,
+                  "description": "FlowiseAI/Flowise",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2612,7 +2612,7 @@
                     "open_issues": 1040,
                     "owner": "FlowiseAI",
                     "repo": "Flowise",
-                    "stars": 55494,
+                    "stars": 55485,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -2681,7 +2681,7 @@
             "open_issues": 15,
             "owner": "genia-dev",
             "repo": "GeniA",
-            "stars": 409,
+            "stars": 408,
             "topics": [
               "agent",
               "ai",
@@ -2708,7 +2708,7 @@
                 {
                   "node_type": "item",
                   "title": "FOLLGAD/godmode",
-                  "description": null,
+                  "description": "FOLLGAD/godmode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2743,7 +2743,7 @@
                 {
                   "node_type": "item",
                   "title": "Kav-K/GPTDiscord",
-                  "description": null,
+                  "description": "Kav-K/GPTDiscord",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2835,7 +2835,7 @@
                 {
                   "node_type": "item",
                   "title": "AntonOsika/gpt-engineer",
-                  "description": null,
+                  "description": "AntonOsika/gpt-engineer",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2848,7 +2848,7 @@
                     "open_issues": 70,
                     "owner": "AntonOsika",
                     "repo": "gpt-engineer",
-                    "stars": 55064,
+                    "stars": 55060,
                     "topics": [
                       "ai",
                       "autonomous-agent",
@@ -2894,7 +2894,7 @@
                     "open_issues": 25,
                     "owner": "joshpxyne",
                     "repo": "gpt-migrate",
-                    "stars": 6975,
+                    "stars": 6977,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:32:58.340Z"
@@ -2918,7 +2918,7 @@
             "open_issues": 25,
             "owner": "joshpxyne",
             "repo": "gpt-migrate",
-            "stars": 6975,
+            "stars": 6977,
             "topics": []
           },
           "title": "GPT Migrate",
@@ -2931,7 +2931,7 @@
                 {
                   "node_type": "item",
                   "title": "Pythagora-io/gpt-pilot",
-                  "description": null,
+                  "description": "Pythagora-io/gpt-pilot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3000,10 +3000,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T19:33:35Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29865,
+            "stars": 29880,
             "topics": [
               "agent",
               "ai",
@@ -3028,7 +3028,7 @@
                 {
                   "node_type": "item",
                   "title": "Website",
-                  "description": null,
+                  "description": "nicepkg/gpt-runner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3041,7 +3041,7 @@
                     "open_issues": 11,
                     "owner": "nicepkg",
                     "repo": "gpt-runner",
-                    "stars": 384,
+                    "stars": 383,
                     "topics": [
                       "ai",
                       "anthropic",
@@ -3074,7 +3074,7 @@
             "open_issues": 11,
             "owner": "nicepkg",
             "repo": "gpt-runner",
-            "stars": 384,
+            "stars": 383,
             "topics": [
               "ai",
               "anthropic",
@@ -3096,7 +3096,7 @@
                 {
                   "node_type": "item",
                   "title": "metauto-ai/GPTSwarm",
-                  "description": null,
+                  "description": "metauto-ai/GPTSwarm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3172,10 +3172,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4150,
+            "open_issues": 4153,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25378,
+            "stars": 25379,
             "topics": [
               "deep-learning",
               "platform",
@@ -3196,8 +3196,8 @@
             "id": 628729877,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:21:37Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-02T22:05:50Z",
+            "open_issues": 54,
             "owner": "langroid",
             "repo": "langroid",
             "stars": 4111,
@@ -3253,7 +3253,7 @@
                 {
                   "node_type": "item",
                   "title": "mpaepper/llm_agents",
-                  "description": null,
+                  "description": "mpaepper/llm_agents",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3313,7 +3313,7 @@
                 {
                   "node_type": "item",
                   "title": "trypromptly/LLMStack",
-                  "description": null,
+                  "description": "trypromptly/LLMStack",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3326,7 +3326,7 @@
                     "open_issues": 25,
                     "owner": "trypromptly",
                     "repo": "LLMStack",
-                    "stars": 2309,
+                    "stars": 2308,
                     "topics": [
                       "agents",
                       "ai",
@@ -3360,7 +3360,7 @@
                 {
                   "node_type": "item",
                   "title": "PromtEngineer/localGPT",
-                  "description": null,
+                  "description": "PromtEngineer/localGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3373,7 +3373,7 @@
                     "open_issues": 22,
                     "owner": "PromtEngineer",
                     "repo": "localGPT",
-                    "stars": 22196,
+                    "stars": 22194,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:32:58.340Z"
@@ -3397,7 +3397,7 @@
             "open_issues": 22,
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22196,
+            "stars": 22194,
             "topics": []
           },
           "title": "Local GPT",
@@ -3436,7 +3436,7 @@
                 {
                   "node_type": "item",
                   "title": "samholt/L2MAC",
-                  "description": null,
+                  "description": "samholt/L2MAC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3506,7 +3506,7 @@
                 {
                   "node_type": "item",
                   "title": "RubricLab/maige",
-                  "description": null,
+                  "description": "RubricLab/maige",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3545,7 +3545,7 @@
                 {
                   "node_type": "item",
                   "title": "Oneirocom/Magick",
-                  "description": null,
+                  "description": "Oneirocom/Magick",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3609,7 +3609,7 @@
             "open_issues": 23,
             "owner": "memfreeme",
             "repo": "memfree",
-            "stars": 1511,
+            "stars": 1512,
             "topics": [
               "ai",
               "ai-search",
@@ -3645,7 +3645,7 @@
             "open_issues": 0,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 25001,
+            "stars": 25007,
             "topics": [
               "ai",
               "ai-agents",
@@ -3671,7 +3671,7 @@
             "open_issues": 0,
             "owner": "AbanteAI",
             "repo": "archive-old-cli-mentat",
-            "stars": 2543,
+            "stars": 2542,
             "topics": []
           },
           "title": "Mentat",
@@ -3684,7 +3684,7 @@
                 {
                   "node_type": "item",
                   "title": "FoundationAgents/MetaGPT",
-                  "description": null,
+                  "description": "FoundationAgents/MetaGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3694,7 +3694,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
-                    "open_issues": 145,
+                    "open_issues": 144,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
                     "stars": 70719,
@@ -3724,7 +3724,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 145,
+            "open_issues": 144,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
             "stars": 70719,
@@ -3746,7 +3746,7 @@
                 {
                   "node_type": "item",
                   "title": "muellerberndt/mini-agi",
-                  "description": null,
+                  "description": "muellerberndt/mini-agi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3759,7 +3759,7 @@
                     "open_issues": 10,
                     "owner": "muellerberndt",
                     "repo": "mini-agi",
-                    "stars": 2917,
+                    "stars": 2919,
                     "topics": [
                       "agent",
                       "agi",
@@ -3789,7 +3789,7 @@
             "open_issues": 10,
             "owner": "muellerberndt",
             "repo": "mini-agi",
-            "stars": 2917,
+            "stars": 2919,
             "topics": [
               "agent",
               "agi",
@@ -3808,7 +3808,7 @@
                 {
                   "node_type": "item",
                   "title": "composable-models/llm_multiagent_debate",
-                  "description": null,
+                  "description": "composable-models/llm_multiagent_debate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3879,7 +3879,7 @@
                 {
                   "node_type": "item",
                   "title": "Documentation",
-                  "description": null,
+                  "description": "codeintegrity-ai/mutahunter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3908,7 +3908,7 @@
                 {
                   "node_type": "item",
                   "title": "codeintegrity-ai/mutahunter",
-                  "description": null,
+                  "description": "codeintegrity-ai/mutahunter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3974,7 +3974,7 @@
                 {
                   "node_type": "item",
                   "title": "metauto-ai/Mindstorm",
-                  "description": null,
+                  "description": "metauto-ai/Mindstorm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4032,7 +4032,7 @@
                 {
                   "node_type": "item",
                   "title": "xlang-ai/OpenAgents",
-                  "description": null,
+                  "description": "xlang-ai/OpenAgents",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4045,7 +4045,7 @@
                     "open_issues": 15,
                     "owner": "xlang-ai",
                     "repo": "OpenAgents",
-                    "stars": 4862,
+                    "stars": 4863,
                     "topics": [
                       "agent",
                       "assistant-chat-bots",
@@ -4082,7 +4082,7 @@
             "open_issues": 15,
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4862,
+            "stars": 4863,
             "topics": [
               "agent",
               "assistant-chat-bots",
@@ -4108,7 +4108,7 @@
                 {
                   "node_type": "item",
                   "title": "agiresearch/OpenAGI",
-                  "description": null,
+                  "description": "agiresearch/OpenAGI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4158,7 +4158,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenHands/OpenHands",
-                  "description": null,
+                  "description": "OpenHands/OpenHands",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4167,11 +4167,11 @@
                     "id": 771302083,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T05:31:50Z",
-                    "open_issues": 851,
+                    "last_commit": "2026-10-02T21:53:23Z",
+                    "open_issues": 866,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 89766,
+                    "stars": 89830,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -4201,11 +4201,11 @@
             "id": 771302083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:31:50Z",
-            "open_issues": 851,
+            "last_commit": "2026-10-02T21:53:23Z",
+            "open_issues": 866,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 89766,
+            "stars": 89830,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -4228,7 +4228,7 @@
                 {
                   "node_type": "item",
                   "title": "openinterpreter/openinterpreter",
-                  "description": null,
+                  "description": "openinterpreter/openinterpreter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4237,11 +4237,11 @@
                     "id": 666299222,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T18:19:57Z",
+                    "last_commit": "2026-10-02T07:44:16Z",
                     "open_issues": 11,
                     "owner": "openinterpreter",
                     "repo": "openinterpreter",
-                    "stars": 68484,
+                    "stars": 68494,
                     "topics": [
                       "acp",
                       "coding-agent",
@@ -4271,7 +4271,7 @@
                 {
                   "node_type": "item",
                   "title": "pezzolabs/pezzo",
-                  "description": null,
+                  "description": "pezzolabs/pezzo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4284,7 +4284,7 @@
                     "open_issues": 54,
                     "owner": "pezzolabs",
                     "repo": "pezzo",
-                    "stars": 3277,
+                    "stars": 3276,
                     "topics": [
                       "ai",
                       "devtools",
@@ -4327,7 +4327,7 @@
                 {
                   "node_type": "item",
                   "title": "zylon-ai/private-gpt",
-                  "description": null,
+                  "description": "zylon-ai/private-gpt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4336,11 +4336,11 @@
                     "id": 635240594,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T10:20:26Z",
+                    "last_commit": "2026-10-02T14:01:06Z",
                     "open_issues": 18,
                     "owner": "zylon-ai",
                     "repo": "private-gpt",
-                    "stars": 57561,
+                    "stars": 57556,
                     "topics": [
                       "ai",
                       "ai-tools",
@@ -4399,7 +4399,7 @@
             {
               "node_type": "item",
               "title": "eylonmiz/react-agent",
-              "description": null,
+              "description": "eylonmiz/react-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4436,7 +4436,7 @@
                 {
                   "node_type": "item",
                   "title": "OthersideAI/self-operating-computer",
-                  "description": null,
+                  "description": "OthersideAI/self-operating-computer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4449,7 +4449,7 @@
                     "open_issues": 108,
                     "owner": "OthersideAI",
                     "repo": "self-operating-computer",
-                    "stars": 10294,
+                    "stars": 10296,
                     "topics": [
                       "automation",
                       "openai",
@@ -4496,7 +4496,7 @@
                 {
                   "node_type": "item",
                   "title": "stackwiseai/stackwise",
-                  "description": null,
+                  "description": "stackwiseai/stackwise",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4564,7 +4564,7 @@
                 {
                   "node_type": "item",
                   "title": "superagent-ai/superagent",
-                  "description": null,
+                  "description": "superagent-ai/superagent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4577,7 +4577,7 @@
                     "open_issues": 18,
                     "owner": "superagent-ai",
                     "repo": "superagent",
-                    "stars": 6764,
+                    "stars": 6761,
                     "topics": [
                       "ai",
                       "anthropic",
@@ -4607,7 +4607,7 @@
                 {
                   "node_type": "item",
                   "title": "CR-Gjx/Suspicion-Agent",
-                  "description": null,
+                  "description": "CR-Gjx/Suspicion-Agent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4657,7 +4657,7 @@
                 {
                   "node_type": "item",
                   "title": "SWE-agent/SWE-agent",
-                  "description": null,
+                  "description": "SWE-agent/SWE-agent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4667,10 +4667,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-28T22:56:26Z",
-                    "open_issues": 134,
+                    "open_issues": 135,
                     "owner": "SWE-agent",
                     "repo": "SWE-agent",
-                    "stars": 20455,
+                    "stars": 20469,
                     "topics": [
                       "agent",
                       "agent-based-model",
@@ -4699,10 +4699,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T22:56:26Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20455,
+            "stars": 20469,
             "topics": [
               "agent",
               "agent-based-model",
@@ -4723,7 +4723,7 @@
                 {
                   "node_type": "item",
                   "title": "TaxyAI/browser-extension",
-                  "description": null,
+                  "description": "TaxyAI/browser-extension",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4794,7 +4794,7 @@
                 {
                   "node_type": "item",
                   "title": "microsoft/UFO",
-                  "description": null,
+                  "description": "microsoft/UFO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4807,7 +4807,7 @@
                     "open_issues": 86,
                     "owner": "microsoft",
                     "repo": "UFO",
-                    "stars": 9893,
+                    "stars": 9896,
                     "topics": [
                       "agent",
                       "automation",
@@ -4838,7 +4838,7 @@
             "open_issues": 86,
             "owner": "microsoft",
             "repo": "UFO",
-            "stars": 9893,
+            "stars": 9896,
             "topics": [
               "agent",
               "automation",
@@ -4858,7 +4858,7 @@
                 {
                   "node_type": "item",
                   "title": "vanna-ai/vanna",
-                  "description": null,
+                  "description": "vanna-ai/vanna",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -4902,7 +4902,7 @@
                 {
                   "node_type": "item",
                   "title": "MineDojo/Voyager",
-                  "description": null,
+                  "description": "MineDojo/Voyager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4915,7 +4915,7 @@
                     "open_issues": 7,
                     "owner": "MineDojo",
                     "repo": "Voyager",
-                    "stars": 7237,
+                    "stars": 7238,
                     "topics": [
                       "embodied-learning",
                       "large-language-models",
@@ -4942,7 +4942,7 @@
                 {
                   "node_type": "item",
                   "title": "Markeljan/web3gpt",
-                  "description": null,
+                  "description": "Markeljan/web3gpt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4990,7 +4990,7 @@
                     {
                       "node_type": "item",
                       "title": "Javascript version (being developed)",
-                      "description": null,
+                      "description": "TheoLvs/westworldjs",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5020,7 +5020,7 @@
                 {
                   "node_type": "item",
                   "title": "TheoLvs/westworld",
-                  "description": null,
+                  "description": "TheoLvs/westworld",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5080,7 +5080,7 @@
                 {
                   "node_type": "item",
                   "title": "Canner/WrenAI",
-                  "description": null,
+                  "description": "Canner/WrenAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5089,11 +5089,11 @@
                     "id": 771350543,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T02:59:56Z",
+                    "last_commit": "2026-10-02T11:25:54Z",
                     "open_issues": 288,
                     "owner": "Canner",
                     "repo": "WrenAI",
-                    "stars": 17795,
+                    "stars": 17797,
                     "topics": [
                       "ai-agents",
                       "bigquery",
@@ -5136,7 +5136,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub Repository",
-                  "description": null,
+                  "description": "OpenBMB/XAgent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5149,7 +5149,7 @@
                     "open_issues": 57,
                     "owner": "OpenBMB",
                     "repo": "XAgent",
-                    "stars": 8551,
+                    "stars": 8552,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:32:58.340Z"
@@ -5173,7 +5173,7 @@
             "open_issues": 57,
             "owner": "OpenBMB",
             "repo": "XAgent",
-            "stars": 8551,
+            "stars": 8552,
             "topics": []
           },
           "title": "XAgent",
@@ -5186,7 +5186,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub Repository",
-                  "description": null,
+                  "description": "genlayerlabs/yeagerai-agent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5209,7 +5209,7 @@
                 {
                   "node_type": "item",
                   "title": "License: MIT",
-                  "description": null,
+                  "description": "genlayerlabs/yeagerai-agent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5290,7 +5290,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub (Issue Only)",
-                  "description": null,
+                  "description": "cursor/cursor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5325,7 +5325,7 @@
                 {
                   "node_type": "item",
                   "title": "blob42/Instrukt",
-                  "description": null,
+                  "description": "blob42/Instrukt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5338,7 +5338,7 @@
                     "open_issues": 6,
                     "owner": "blob42",
                     "repo": "Instrukt",
-                    "stars": 330,
+                    "stars": 329,
                     "topics": [
                       "agent-executor",
                       "agents",
@@ -5374,7 +5374,7 @@
             "open_issues": 6,
             "owner": "blob42",
             "repo": "Instrukt",
-            "stars": 330,
+            "stars": 329,
             "topics": [
               "agent-executor",
               "agents",
@@ -5399,7 +5399,7 @@
                 {
                   "node_type": "item",
                   "title": "proficientai/js",
-                  "description": null,
+                  "description": "proficientai/js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5440,7 +5440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:54:16.184Z",
+    "last_updated": "2026-10-03T04:22:50.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI autonomous agents",
@@ -5449,10 +5449,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-08-21T18:52:45Z",
-      "open_issues": 1089,
+      "open_issues": 1094,
       "owner": "e2b-dev",
       "repo": "awesome-ai-agents",
-      "stars": 30246,
+      "stars": 30250,
       "topics": [
         "agent",
         "ai",
